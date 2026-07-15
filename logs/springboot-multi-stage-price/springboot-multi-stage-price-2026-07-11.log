@@ -1,0 +1,705 @@
+2026-07-11 10:21:38 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Starting MultiStagePriceApplication using Java 21.0.11 with PID 91050 (/Users/jiangzi/IdeaProjects/multi-stage-price/target/classes started by jiangzi in /Users/jiangzi/IdeaProjects)
+2026-07-11 10:21:38 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - No active profile set, falling back to 1 default profile: "default"
+2026-07-11 10:21:38 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-07-11 10:21:38 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-07-11 10:21:38 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2026-07-11 10:21:39 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat initialized with port 8083 (http)
+2026-07-11 10:21:39 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8083"]
+2026-07-11 10:21:39 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-07-11 10:21:39 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-07-11 10:21:39 [main] INFO  o.s.b.w.c.servlet.WebApplicationContextInitializer - Root WebApplicationContext: initialization completed in 620 ms
+2026-07-11 10:21:39 [main] WARN  i.n.resolver.dns.DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+2026-07-11 10:21:39 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8083"]
+2026-07-11 10:21:39 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat started on port 8083 (http) with context path '/'
+2026-07-11 10:21:39 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Started MultiStagePriceApplication in 1.451 seconds (process running for 1.988)
+2026-07-11 10:25:26 [SpringApplicationShutdownHook] INFO  org.springframework.boot.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-07-11 10:25:26 [tomcat-shutdown] INFO  org.springframework.boot.tomcat.GracefulShutdown - Graceful shutdown complete
+2026-07-11 10:25:29 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Starting MultiStagePriceApplication using Java 21.0.11 with PID 91178 (/Users/jiangzi/IdeaProjects/multi-stage-price/target/classes started by jiangzi in /Users/jiangzi/IdeaProjects)
+2026-07-11 10:25:29 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - No active profile set, falling back to 1 default profile: "default"
+2026-07-11 10:25:29 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-07-11 10:25:29 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-07-11 10:25:29 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2026-07-11 10:25:29 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat initialized with port 8083 (http)
+2026-07-11 10:25:29 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8083"]
+2026-07-11 10:25:29 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-07-11 10:25:29 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-07-11 10:25:29 [main] INFO  o.s.b.w.c.servlet.WebApplicationContextInitializer - Root WebApplicationContext: initialization completed in 583 ms
+2026-07-11 10:25:30 [main] WARN  i.n.resolver.dns.DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+2026-07-11 10:25:30 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8083"]
+2026-07-11 10:25:30 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat started on port 8083 (http) with context path '/'
+2026-07-11 10:25:30 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Started MultiStagePriceApplication in 1.322 seconds (process running for 1.736)
+2026-07-11 10:25:46 [SpringApplicationShutdownHook] INFO  org.springframework.boot.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-07-11 10:25:46 [tomcat-shutdown] INFO  org.springframework.boot.tomcat.GracefulShutdown - Graceful shutdown complete
+2026-07-11 10:25:49 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Starting MultiStagePriceApplication using Java 21.0.11 with PID 91188 (/Users/jiangzi/IdeaProjects/multi-stage-price/target/classes started by jiangzi in /Users/jiangzi/IdeaProjects)
+2026-07-11 10:25:49 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - No active profile set, falling back to 1 default profile: "default"
+2026-07-11 10:25:49 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-07-11 10:25:49 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-07-11 10:25:49 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2026-07-11 10:25:50 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat initialized with port 8083 (http)
+2026-07-11 10:25:50 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8083"]
+2026-07-11 10:25:50 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-07-11 10:25:50 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-07-11 10:25:50 [main] INFO  o.s.b.w.c.servlet.WebApplicationContextInitializer - Root WebApplicationContext: initialization completed in 584 ms
+2026-07-11 10:25:50 [main] WARN  i.n.resolver.dns.DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+2026-07-11 10:25:50 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8083"]
+2026-07-11 10:25:50 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat started on port 8083 (http) with context path '/'
+2026-07-11 10:25:50 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Started MultiStagePriceApplication in 1.331 seconds (process running for 1.852)
+2026-07-11 10:26:11 [http-nio-8083-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-07-11 10:26:11 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-07-11 10:26:11 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2026-07-11 10:26:11 [http-nio-8083-exec-1] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Method parameter 'startTime': Failed to convert value of type 'java.lang.String' to required type 'java.util.Date'; Failed to convert from type [java.lang.String] to type [@org.springframework.format.annotation.DateTimeFormat java.util.Date] for value [2000-01-01 00:00:00]]
+2026-07-11 10:26:14 [http-nio-8083-exec-2] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Method parameter 'startTime': Failed to convert value of type 'java.lang.String' to required type 'java.util.Date'; Failed to convert from type [java.lang.String] to type [@org.springframework.format.annotation.DateTimeFormat java.util.Date] for value [2000-01-01 00:00:00]]
+2026-07-11 10:28:50 [SpringApplicationShutdownHook] INFO  org.springframework.boot.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-07-11 10:28:50 [tomcat-shutdown] INFO  org.springframework.boot.tomcat.GracefulShutdown - Graceful shutdown complete
+2026-07-11 10:29:10 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Starting MultiStagePriceApplication using Java 21.0.11 with PID 91237 (/Users/jiangzi/IdeaProjects/multi-stage-price/target/classes started by jiangzi in /Users/jiangzi/IdeaProjects)
+2026-07-11 10:29:10 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - No active profile set, falling back to 1 default profile: "default"
+2026-07-11 10:29:11 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-07-11 10:29:11 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-07-11 10:29:11 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 Redis repository interfaces.
+2026-07-11 10:29:11 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat initialized with port 8083 (http)
+2026-07-11 10:29:11 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8083"]
+2026-07-11 10:29:11 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-07-11 10:29:11 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-07-11 10:29:11 [main] INFO  o.s.b.w.c.servlet.WebApplicationContextInitializer - Root WebApplicationContext: initialization completed in 622 ms
+2026-07-11 10:29:11 [main] WARN  i.n.resolver.dns.DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+2026-07-11 10:29:11 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8083"]
+2026-07-11 10:29:11 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat started on port 8083 (http) with context path '/'
+2026-07-11 10:29:11 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Started MultiStagePriceApplication in 1.394 seconds (process running for 1.925)
+2026-07-11 10:29:17 [http-nio-8083-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-07-11 10:29:17 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-07-11 10:29:17 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2026-07-11 10:29:17 [http-nio-8083-exec-1] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Method parameter 'endTime': Failed to convert value of type 'java.lang.String' to required type 'java.util.Date'; Failed to convert from type [java.lang.String] to type [@org.springframework.format.annotation.DateTimeFormat java.util.Date] for value [2999-12-31 00:00:00]]
+2026-07-11 10:30:43 [SpringApplicationShutdownHook] INFO  org.springframework.boot.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-07-11 10:30:43 [tomcat-shutdown] INFO  org.springframework.boot.tomcat.GracefulShutdown - Graceful shutdown complete
+2026-07-11 10:30:49 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Starting MultiStagePriceApplication using Java 21.0.11 with PID 91276 (/Users/jiangzi/IdeaProjects/multi-stage-price/target/classes started by jiangzi in /Users/jiangzi/IdeaProjects)
+2026-07-11 10:30:49 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - No active profile set, falling back to 1 default profile: "default"
+2026-07-11 10:30:51 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-07-11 10:30:51 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-07-11 10:30:51 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2026-07-11 10:30:51 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat initialized with port 8083 (http)
+2026-07-11 10:30:51 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8083"]
+2026-07-11 10:30:51 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-07-11 10:30:51 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-07-11 10:30:51 [main] INFO  o.s.b.w.c.servlet.WebApplicationContextInitializer - Root WebApplicationContext: initialization completed in 1790 ms
+2026-07-11 10:30:52 [main] WARN  i.n.resolver.dns.DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+2026-07-11 10:30:52 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8083"]
+2026-07-11 10:30:52 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat started on port 8083 (http) with context path '/'
+2026-07-11 10:30:52 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Started MultiStagePriceApplication in 3.6 seconds (process running for 5.378)
+2026-07-11 10:30:58 [http-nio-8083-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-07-11 10:30:58 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-07-11 10:30:58 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2026-07-11 10:30:58 [http-nio-8083-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-07-11 10:30:58 [http-nio-8083-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@39e65320
+2026-07-11 10:30:58 [http-nio-8083-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-07-11 10:37:59 [SpringApplicationShutdownHook] INFO  org.springframework.boot.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-07-11 10:37:59 [tomcat-shutdown] INFO  org.springframework.boot.tomcat.GracefulShutdown - Graceful shutdown complete
+2026-07-11 10:37:59 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2026-07-11 10:37:59 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2026-07-11 10:38:02 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Starting MultiStagePriceApplication using Java 21.0.11 with PID 91459 (/Users/jiangzi/IdeaProjects/multi-stage-price/target/classes started by jiangzi in /Users/jiangzi/IdeaProjects)
+2026-07-11 10:38:02 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - No active profile set, falling back to 1 default profile: "default"
+2026-07-11 10:38:02 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-07-11 10:38:02 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-07-11 10:38:02 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2026-07-11 10:38:02 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat initialized with port 8083 (http)
+2026-07-11 10:38:02 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8083"]
+2026-07-11 10:38:02 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-07-11 10:38:02 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-07-11 10:38:02 [main] INFO  o.s.b.w.c.servlet.WebApplicationContextInitializer - Root WebApplicationContext: initialization completed in 690 ms
+2026-07-11 10:38:03 [main] WARN  i.n.resolver.dns.DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+2026-07-11 10:38:03 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8083"]
+2026-07-11 10:38:03 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat started on port 8083 (http) with context path '/'
+2026-07-11 10:38:03 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Started MultiStagePriceApplication in 1.438 seconds (process running for 1.944)
+2026-07-11 10:38:09 [http-nio-8083-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-07-11 10:38:09 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-07-11 10:38:09 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2026-07-11 10:38:09 [http-nio-8083-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-07-11 10:38:09 [http-nio-8083-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5078710c
+2026-07-11 10:38:09 [http-nio-8083-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-07-11 10:43:56 [SpringApplicationShutdownHook] INFO  org.springframework.boot.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-07-11 10:43:56 [tomcat-shutdown] INFO  org.springframework.boot.tomcat.GracefulShutdown - Graceful shutdown complete
+2026-07-11 10:43:56 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2026-07-11 10:43:56 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2026-07-11 10:43:58 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Starting MultiStagePriceApplication using Java 21.0.11 with PID 91568 (/Users/jiangzi/IdeaProjects/multi-stage-price/target/classes started by jiangzi in /Users/jiangzi/IdeaProjects)
+2026-07-11 10:43:58 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - No active profile set, falling back to 1 default profile: "default"
+2026-07-11 10:43:58 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-07-11 10:43:58 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-07-11 10:43:58 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2026-07-11 10:43:58 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat initialized with port 8083 (http)
+2026-07-11 10:43:58 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8083"]
+2026-07-11 10:43:58 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-07-11 10:43:58 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-07-11 10:43:58 [main] INFO  o.s.b.w.c.servlet.WebApplicationContextInitializer - Root WebApplicationContext: initialization completed in 658 ms
+2026-07-11 10:43:59 [main] WARN  i.n.resolver.dns.DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+2026-07-11 10:43:59 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8083"]
+2026-07-11 10:43:59 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat started on port 8083 (http) with context path '/'
+2026-07-11 10:43:59 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Started MultiStagePriceApplication in 1.457 seconds (process running for 2.115)
+2026-07-11 10:44:37 [http-nio-8083-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-07-11 10:44:37 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-07-11 10:44:37 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2026-07-11 10:44:37 [http-nio-8083-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-07-11 10:44:37 [http-nio-8083-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@32ead5df
+2026-07-11 10:44:37 [http-nio-8083-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-07-11 10:59:15 [SpringApplicationShutdownHook] INFO  org.springframework.boot.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-07-11 10:59:15 [tomcat-shutdown] INFO  org.springframework.boot.tomcat.GracefulShutdown - Graceful shutdown complete
+2026-07-11 10:59:15 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2026-07-11 10:59:15 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2026-07-11 11:00:15 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Starting MultiStagePriceApplication using Java 21.0.11 with PID 91821 (/Users/jiangzi/IdeaProjects/multi-stage-price/target/classes started by jiangzi in /Users/jiangzi/IdeaProjects)
+2026-07-11 11:00:15 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - No active profile set, falling back to 1 default profile: "default"
+2026-07-11 11:00:16 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-07-11 11:00:16 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-07-11 11:00:16 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2026-07-11 11:00:16 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat initialized with port 8083 (http)
+2026-07-11 11:00:16 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8083"]
+2026-07-11 11:00:16 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-07-11 11:00:16 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-07-11 11:00:16 [main] INFO  o.s.b.w.c.servlet.WebApplicationContextInitializer - Root WebApplicationContext: initialization completed in 614 ms
+2026-07-11 11:00:16 [main] WARN  i.n.resolver.dns.DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+2026-07-11 11:00:17 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8083"]
+2026-07-11 11:00:17 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat started on port 8083 (http) with context path '/'
+2026-07-11 11:00:17 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Started MultiStagePriceApplication in 1.321 seconds (process running for 1.757)
+2026-07-11 11:01:02 [http-nio-8083-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-07-11 11:01:02 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-07-11 11:01:02 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2026-07-11 11:01:02 [http-nio-8083-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-07-11 11:01:02 [http-nio-8083-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@155b2313
+2026-07-11 11:01:02 [http-nio-8083-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-07-11 11:01:03 [http-nio-8083-exec-1] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 2 :
+totalDuration < 960 ? 3 :
+totalDuration < 1280 ? 4 :
+totalDuration < 1600 ? 5 :
+totalDuration < 3200 ? 6 :
+totalDuration < 6400 ? 7 : 8
+2026-07-11 11:01:03 [http-nio-8083-exec-1] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage level: 0
+2026-07-11 11:01:03 [http-nio-8083-exec-1] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 1 :
+totalDuration < 960 ? 2 :
+totalDuration < 1280 ? 2 :
+totalDuration < 1600 ? 2 :
+totalDuration < 3200 ? 2 :
+totalDuration < 6400 ? 10 : 10
+2026-07-11 11:01:03 [http-nio-8083-exec-1] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount: 0
+2026-07-11 11:01:03 [http-nio-8083-exec-1] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - 调发奖
+2026-07-11 11:01:03 [http-nio-8083-exec-1] ERROR c.e.multi_stage_price.controller.SyncController - 
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'biz_scene' cannot be null
+### The error may exist in file [/Users/jiangzi/IdeaProjects/multi-stage-price/target/classes/mapper/PrizeRecordMapper.xml]
+### The error may involve com.example.multi_stage_price.mapper.PrizeRecordMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO prize_record         (         user_id,         biz_scene,         prize_code,         prize_date,         prize_stage,         prize_amount,         out_biz_no,         create_time,         update_time         )         VALUES         (         ?,         ?,         ?,         ?,         ?,         ?,         ?,         now(),         now()         )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'biz_scene' cannot be null
+; Column 'biz_scene' cannot be null
+2026-07-11 11:01:32 [http-nio-8083-exec-2] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 2 :
+totalDuration < 960 ? 3 :
+totalDuration < 1280 ? 4 :
+totalDuration < 1600 ? 5 :
+totalDuration < 3200 ? 6 :
+totalDuration < 6400 ? 7 : 8
+2026-07-11 11:01:32 [http-nio-8083-exec-2] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage level: 0
+2026-07-11 11:01:32 [http-nio-8083-exec-2] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 1 :
+totalDuration < 960 ? 2 :
+totalDuration < 1280 ? 2 :
+totalDuration < 1600 ? 2 :
+totalDuration < 3200 ? 2 :
+totalDuration < 6400 ? 10 : 10
+2026-07-11 11:01:32 [http-nio-8083-exec-2] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount: 0
+2026-07-11 11:01:32 [http-nio-8083-exec-2] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - 调发奖
+2026-07-11 11:01:32 [http-nio-8083-exec-2] ERROR c.e.multi_stage_price.controller.SyncController - 
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'biz_scene' cannot be null
+### The error may exist in file [/Users/jiangzi/IdeaProjects/multi-stage-price/target/classes/mapper/PrizeRecordMapper.xml]
+### The error may involve com.example.multi_stage_price.mapper.PrizeRecordMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO prize_record         (         user_id,         biz_scene,         prize_code,         prize_date,         prize_stage,         prize_amount,         out_biz_no,         create_time,         update_time         )         VALUES         (         ?,         ?,         ?,         ?,         ?,         ?,         ?,         now(),         now()         )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'biz_scene' cannot be null
+; Column 'biz_scene' cannot be null
+2026-07-11 11:02:02 [http-nio-8083-exec-3] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 2 :
+totalDuration < 960 ? 3 :
+totalDuration < 1280 ? 4 :
+totalDuration < 1600 ? 5 :
+totalDuration < 3200 ? 6 :
+totalDuration < 6400 ? 7 : 8
+2026-07-11 11:02:02 [http-nio-8083-exec-3] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage level: 0
+2026-07-11 11:02:02 [http-nio-8083-exec-3] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 1 :
+totalDuration < 960 ? 2 :
+totalDuration < 1280 ? 2 :
+totalDuration < 1600 ? 2 :
+totalDuration < 3200 ? 2 :
+totalDuration < 6400 ? 10 : 10
+2026-07-11 11:02:02 [http-nio-8083-exec-3] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount: 0
+2026-07-11 11:02:02 [http-nio-8083-exec-3] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - 调发奖
+2026-07-11 11:02:02 [http-nio-8083-exec-3] ERROR c.e.multi_stage_price.controller.SyncController - 
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'biz_scene' cannot be null
+### The error may exist in file [/Users/jiangzi/IdeaProjects/multi-stage-price/target/classes/mapper/PrizeRecordMapper.xml]
+### The error may involve com.example.multi_stage_price.mapper.PrizeRecordMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO prize_record         (         user_id,         biz_scene,         prize_code,         prize_date,         prize_stage,         prize_amount,         out_biz_no,         create_time,         update_time         )         VALUES         (         ?,         ?,         ?,         ?,         ?,         ?,         ?,         now(),         now()         )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'biz_scene' cannot be null
+; Column 'biz_scene' cannot be null
+2026-07-11 11:07:25 [SpringApplicationShutdownHook] INFO  org.springframework.boot.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-07-11 11:07:25 [tomcat-shutdown] INFO  org.springframework.boot.tomcat.GracefulShutdown - Graceful shutdown complete
+2026-07-11 11:07:25 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2026-07-11 11:07:25 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2026-07-11 11:07:29 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Starting MultiStagePriceApplication using Java 21.0.11 with PID 91910 (/Users/jiangzi/IdeaProjects/multi-stage-price/target/classes started by jiangzi in /Users/jiangzi/IdeaProjects)
+2026-07-11 11:07:29 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - No active profile set, falling back to 1 default profile: "default"
+2026-07-11 11:07:29 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-07-11 11:07:29 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-07-11 11:07:29 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2026-07-11 11:07:29 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat initialized with port 8083 (http)
+2026-07-11 11:07:29 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8083"]
+2026-07-11 11:07:29 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-07-11 11:07:29 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-07-11 11:07:29 [main] INFO  o.s.b.w.c.servlet.WebApplicationContextInitializer - Root WebApplicationContext: initialization completed in 687 ms
+2026-07-11 11:07:30 [main] WARN  i.n.resolver.dns.DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+2026-07-11 11:07:30 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8083"]
+2026-07-11 11:07:30 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat started on port 8083 (http) with context path '/'
+2026-07-11 11:07:30 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Started MultiStagePriceApplication in 1.495 seconds (process running for 3.945)
+2026-07-11 11:08:11 [http-nio-8083-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-07-11 11:08:11 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-07-11 11:08:11 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2026-07-11 11:08:17 [http-nio-8083-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-07-11 11:08:18 [http-nio-8083-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4587ee31
+2026-07-11 11:08:18 [http-nio-8083-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-07-11 11:12:52 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m33s800ms).
+2026-07-11 11:23:47 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m49s57ms).
+2026-07-11 11:33:38 [SpringApplicationShutdownHook] INFO  org.springframework.boot.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-07-11 11:33:38 [tomcat-shutdown] INFO  org.springframework.boot.tomcat.GracefulShutdown - Graceful shutdown complete
+2026-07-11 11:33:38 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2026-07-11 11:33:38 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2026-07-11 11:34:02 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Starting MultiStagePriceApplication using Java 21.0.11 with PID 92559 (/Users/jiangzi/IdeaProjects/multi-stage-price/target/classes started by jiangzi in /Users/jiangzi/IdeaProjects)
+2026-07-11 11:34:02 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - No active profile set, falling back to 1 default profile: "default"
+2026-07-11 11:34:02 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-07-11 11:34:02 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-07-11 11:34:02 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2026-07-11 11:34:03 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat initialized with port 8083 (http)
+2026-07-11 11:34:03 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8083"]
+2026-07-11 11:34:03 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-07-11 11:34:03 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-07-11 11:34:03 [main] INFO  o.s.b.w.c.servlet.WebApplicationContextInitializer - Root WebApplicationContext: initialization completed in 814 ms
+2026-07-11 11:34:03 [main] WARN  i.n.resolver.dns.DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+2026-07-11 11:34:03 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8083"]
+2026-07-11 11:34:03 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat started on port 8083 (http) with context path '/'
+2026-07-11 11:34:03 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Started MultiStagePriceApplication in 1.759 seconds (process running for 2.492)
+2026-07-11 11:34:07 [http-nio-8083-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-07-11 11:34:07 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-07-11 11:34:07 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 9 ms
+2026-07-11 11:34:07 [http-nio-8083-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-07-11 11:34:07 [http-nio-8083-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@476ac531
+2026-07-11 11:34:07 [http-nio-8083-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-07-11 11:41:55 [SpringApplicationShutdownHook] INFO  org.springframework.boot.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-07-11 11:41:55 [tomcat-shutdown] INFO  org.springframework.boot.tomcat.GracefulShutdown - Graceful shutdown complete
+2026-07-11 11:41:55 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2026-07-11 11:41:55 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2026-07-11 11:41:58 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Starting MultiStagePriceApplication using Java 21.0.11 with PID 92675 (/Users/jiangzi/IdeaProjects/multi-stage-price/target/classes started by jiangzi in /Users/jiangzi/IdeaProjects)
+2026-07-11 11:41:58 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - No active profile set, falling back to 1 default profile: "default"
+2026-07-11 11:41:58 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-07-11 11:41:58 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-07-11 11:41:58 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2026-07-11 11:41:58 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat initialized with port 8083 (http)
+2026-07-11 11:41:58 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8083"]
+2026-07-11 11:41:58 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-07-11 11:41:58 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-07-11 11:41:58 [main] INFO  o.s.b.w.c.servlet.WebApplicationContextInitializer - Root WebApplicationContext: initialization completed in 641 ms
+2026-07-11 11:41:59 [main] WARN  i.n.resolver.dns.DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+2026-07-11 11:41:59 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8083"]
+2026-07-11 11:41:59 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat started on port 8083 (http) with context path '/'
+2026-07-11 11:41:59 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Started MultiStagePriceApplication in 1.408 seconds (process running for 1.896)
+2026-07-11 11:43:08 [http-nio-8083-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-07-11 11:43:08 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-07-11 11:43:08 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2026-07-11 11:43:08 [http-nio-8083-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-07-11 11:43:08 [http-nio-8083-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3e0ccd3
+2026-07-11 11:43:08 [http-nio-8083-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-07-11 11:43:09 [http-nio-8083-exec-1] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 2 :
+totalDuration < 960 ? 3 :
+totalDuration < 1280 ? 4 :
+totalDuration < 1600 ? 5 :
+totalDuration < 3200 ? 6 :
+totalDuration < 6400 ? 7 : 8
+2026-07-11 11:43:09 [http-nio-8083-exec-1] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage level: 0
+2026-07-11 11:43:09 [http-nio-8083-exec-1] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 1 :
+totalDuration < 960 ? 2 :
+totalDuration < 1280 ? 2 :
+totalDuration < 1600 ? 2 :
+totalDuration < 3200 ? 2 :
+totalDuration < 6400 ? 10 : 10
+2026-07-11 11:43:09 [http-nio-8083-exec-1] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount: 0
+2026-07-11 11:43:09 [http-nio-8083-exec-1] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - 调发奖
+2026-07-11 11:43:09 [http-nio-8083-exec-1] ERROR c.e.multi_stage_price.controller.SyncController - 
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'biz_scene' cannot be null
+### The error may exist in file [/Users/jiangzi/IdeaProjects/multi-stage-price/target/classes/mapper/PrizeRecordMapper.xml]
+### The error may involve com.example.multi_stage_price.mapper.PrizeRecordMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO prize_record         (         user_id,         biz_scene,         prize_code,         prize_date,         prize_stage,         prize_amount,         out_biz_no,         create_time,         update_time         )         VALUES         (         ?,         ?,         ?,         ?,         ?,         ?,         ?,         now(),         now()         )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'biz_scene' cannot be null
+; Column 'biz_scene' cannot be null
+2026-07-11 11:44:00 [http-nio-8083-exec-2] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 2 :
+totalDuration < 960 ? 3 :
+totalDuration < 1280 ? 4 :
+totalDuration < 1600 ? 5 :
+totalDuration < 3200 ? 6 :
+totalDuration < 6400 ? 7 : 8
+2026-07-11 11:44:00 [http-nio-8083-exec-2] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage level: 0
+2026-07-11 11:44:00 [http-nio-8083-exec-2] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 1 :
+totalDuration < 960 ? 2 :
+totalDuration < 1280 ? 2 :
+totalDuration < 1600 ? 2 :
+totalDuration < 3200 ? 2 :
+totalDuration < 6400 ? 10 : 10
+2026-07-11 11:44:00 [http-nio-8083-exec-2] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount: 0
+2026-07-11 11:44:00 [http-nio-8083-exec-2] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - 调发奖
+2026-07-11 11:44:00 [http-nio-8083-exec-2] ERROR c.e.multi_stage_price.controller.SyncController - 
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'biz_scene' cannot be null
+### The error may exist in file [/Users/jiangzi/IdeaProjects/multi-stage-price/target/classes/mapper/PrizeRecordMapper.xml]
+### The error may involve com.example.multi_stage_price.mapper.PrizeRecordMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO prize_record         (         user_id,         biz_scene,         prize_code,         prize_date,         prize_stage,         prize_amount,         out_biz_no,         create_time,         update_time         )         VALUES         (         ?,         ?,         ?,         ?,         ?,         ?,         ?,         now(),         now()         )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'biz_scene' cannot be null
+; Column 'biz_scene' cannot be null
+2026-07-11 11:44:30 [http-nio-8083-exec-3] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 2 :
+totalDuration < 960 ? 3 :
+totalDuration < 1280 ? 4 :
+totalDuration < 1600 ? 5 :
+totalDuration < 3200 ? 6 :
+totalDuration < 6400 ? 7 : 8
+2026-07-11 11:44:30 [http-nio-8083-exec-3] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage level: 1
+2026-07-11 11:44:30 [http-nio-8083-exec-3] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 1 :
+totalDuration < 960 ? 2 :
+totalDuration < 1280 ? 2 :
+totalDuration < 1600 ? 2 :
+totalDuration < 3200 ? 2 :
+totalDuration < 6400 ? 10 : 10
+2026-07-11 11:44:30 [http-nio-8083-exec-3] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount: 1
+2026-07-11 11:44:30 [http-nio-8083-exec-3] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - 调发奖
+2026-07-11 11:44:30 [http-nio-8083-exec-3] ERROR c.e.multi_stage_price.controller.SyncController - 
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'biz_scene' cannot be null
+### The error may exist in file [/Users/jiangzi/IdeaProjects/multi-stage-price/target/classes/mapper/PrizeRecordMapper.xml]
+### The error may involve com.example.multi_stage_price.mapper.PrizeRecordMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO prize_record         (         user_id,         biz_scene,         prize_code,         prize_date,         prize_stage,         prize_amount,         out_biz_no,         create_time,         update_time         )         VALUES         (         ?,         ?,         ?,         ?,         ?,         ?,         ?,         now(),         now()         )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'biz_scene' cannot be null
+; Column 'biz_scene' cannot be null
+2026-07-11 11:45:00 [http-nio-8083-exec-4] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 2 :
+totalDuration < 960 ? 3 :
+totalDuration < 1280 ? 4 :
+totalDuration < 1600 ? 5 :
+totalDuration < 3200 ? 6 :
+totalDuration < 6400 ? 7 : 8
+2026-07-11 11:45:00 [http-nio-8083-exec-4] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage level: 1
+2026-07-11 11:45:00 [http-nio-8083-exec-4] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 1 :
+totalDuration < 960 ? 2 :
+totalDuration < 1280 ? 2 :
+totalDuration < 1600 ? 2 :
+totalDuration < 3200 ? 2 :
+totalDuration < 6400 ? 10 : 10
+2026-07-11 11:45:00 [http-nio-8083-exec-4] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount: 1
+2026-07-11 11:45:00 [http-nio-8083-exec-4] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - 调发奖
+2026-07-11 11:45:00 [http-nio-8083-exec-4] ERROR c.e.multi_stage_price.controller.SyncController - 
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'biz_scene' cannot be null
+### The error may exist in file [/Users/jiangzi/IdeaProjects/multi-stage-price/target/classes/mapper/PrizeRecordMapper.xml]
+### The error may involve com.example.multi_stage_price.mapper.PrizeRecordMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO prize_record         (         user_id,         biz_scene,         prize_code,         prize_date,         prize_stage,         prize_amount,         out_biz_no,         create_time,         update_time         )         VALUES         (         ?,         ?,         ?,         ?,         ?,         ?,         ?,         now(),         now()         )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'biz_scene' cannot be null
+; Column 'biz_scene' cannot be null
+2026-07-11 11:45:30 [http-nio-8083-exec-5] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 2 :
+totalDuration < 960 ? 3 :
+totalDuration < 1280 ? 4 :
+totalDuration < 1600 ? 5 :
+totalDuration < 3200 ? 6 :
+totalDuration < 6400 ? 7 : 8
+2026-07-11 11:45:30 [http-nio-8083-exec-5] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage level: 1
+2026-07-11 11:45:30 [http-nio-8083-exec-5] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 1 :
+totalDuration < 960 ? 2 :
+totalDuration < 1280 ? 2 :
+totalDuration < 1600 ? 2 :
+totalDuration < 3200 ? 2 :
+totalDuration < 6400 ? 10 : 10
+2026-07-11 11:45:30 [http-nio-8083-exec-5] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount: 1
+2026-07-11 11:45:30 [http-nio-8083-exec-5] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - 调发奖
+2026-07-11 11:45:30 [http-nio-8083-exec-5] ERROR c.e.multi_stage_price.controller.SyncController - 
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'biz_scene' cannot be null
+### The error may exist in file [/Users/jiangzi/IdeaProjects/multi-stage-price/target/classes/mapper/PrizeRecordMapper.xml]
+### The error may involve com.example.multi_stage_price.mapper.PrizeRecordMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO prize_record         (         user_id,         biz_scene,         prize_code,         prize_date,         prize_stage,         prize_amount,         out_biz_no,         create_time,         update_time         )         VALUES         (         ?,         ?,         ?,         ?,         ?,         ?,         ?,         now(),         now()         )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'biz_scene' cannot be null
+; Column 'biz_scene' cannot be null
+2026-07-11 11:46:00 [http-nio-8083-exec-6] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 2 :
+totalDuration < 960 ? 3 :
+totalDuration < 1280 ? 4 :
+totalDuration < 1600 ? 5 :
+totalDuration < 3200 ? 6 :
+totalDuration < 6400 ? 7 : 8
+2026-07-11 11:46:00 [http-nio-8083-exec-6] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage level: 1
+2026-07-11 11:46:00 [http-nio-8083-exec-6] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 1 :
+totalDuration < 960 ? 2 :
+totalDuration < 1280 ? 2 :
+totalDuration < 1600 ? 2 :
+totalDuration < 3200 ? 2 :
+totalDuration < 6400 ? 10 : 10
+2026-07-11 11:46:00 [http-nio-8083-exec-6] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount: 1
+2026-07-11 11:46:00 [http-nio-8083-exec-6] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - 调发奖
+2026-07-11 11:46:00 [http-nio-8083-exec-6] ERROR c.e.multi_stage_price.controller.SyncController - 
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'biz_scene' cannot be null
+### The error may exist in file [/Users/jiangzi/IdeaProjects/multi-stage-price/target/classes/mapper/PrizeRecordMapper.xml]
+### The error may involve com.example.multi_stage_price.mapper.PrizeRecordMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO prize_record         (         user_id,         biz_scene,         prize_code,         prize_date,         prize_stage,         prize_amount,         out_biz_no,         create_time,         update_time         )         VALUES         (         ?,         ?,         ?,         ?,         ?,         ?,         ?,         now(),         now()         )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'biz_scene' cannot be null
+; Column 'biz_scene' cannot be null
+2026-07-11 11:46:30 [http-nio-8083-exec-7] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 2 :
+totalDuration < 960 ? 3 :
+totalDuration < 1280 ? 4 :
+totalDuration < 1600 ? 5 :
+totalDuration < 3200 ? 6 :
+totalDuration < 6400 ? 7 : 8
+2026-07-11 11:46:30 [http-nio-8083-exec-7] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage level: 1
+2026-07-11 11:46:30 [http-nio-8083-exec-7] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 1 :
+totalDuration < 960 ? 2 :
+totalDuration < 1280 ? 2 :
+totalDuration < 1600 ? 2 :
+totalDuration < 3200 ? 2 :
+totalDuration < 6400 ? 10 : 10
+2026-07-11 11:46:30 [http-nio-8083-exec-7] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount: 1
+2026-07-11 11:46:30 [http-nio-8083-exec-7] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - 调发奖
+2026-07-11 11:46:30 [http-nio-8083-exec-7] ERROR c.e.multi_stage_price.controller.SyncController - 
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'biz_scene' cannot be null
+### The error may exist in file [/Users/jiangzi/IdeaProjects/multi-stage-price/target/classes/mapper/PrizeRecordMapper.xml]
+### The error may involve com.example.multi_stage_price.mapper.PrizeRecordMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO prize_record         (         user_id,         biz_scene,         prize_code,         prize_date,         prize_stage,         prize_amount,         out_biz_no,         create_time,         update_time         )         VALUES         (         ?,         ?,         ?,         ?,         ?,         ?,         ?,         now(),         now()         )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'biz_scene' cannot be null
+; Column 'biz_scene' cannot be null
+2026-07-11 11:47:00 [http-nio-8083-exec-8] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 2 :
+totalDuration < 960 ? 3 :
+totalDuration < 1280 ? 4 :
+totalDuration < 1600 ? 5 :
+totalDuration < 3200 ? 6 :
+totalDuration < 6400 ? 7 : 8
+2026-07-11 11:47:00 [http-nio-8083-exec-8] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage level: 2
+2026-07-11 11:47:00 [http-nio-8083-exec-8] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 1 :
+totalDuration < 960 ? 2 :
+totalDuration < 1280 ? 2 :
+totalDuration < 1600 ? 2 :
+totalDuration < 3200 ? 2 :
+totalDuration < 6400 ? 10 : 10
+2026-07-11 11:47:00 [http-nio-8083-exec-8] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount: 1
+2026-07-11 11:47:00 [http-nio-8083-exec-8] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - 调发奖
+2026-07-11 11:47:00 [http-nio-8083-exec-8] ERROR c.e.multi_stage_price.controller.SyncController - 
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'biz_scene' cannot be null
+### The error may exist in file [/Users/jiangzi/IdeaProjects/multi-stage-price/target/classes/mapper/PrizeRecordMapper.xml]
+### The error may involve com.example.multi_stage_price.mapper.PrizeRecordMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO prize_record         (         user_id,         biz_scene,         prize_code,         prize_date,         prize_stage,         prize_amount,         out_biz_no,         create_time,         update_time         )         VALUES         (         ?,         ?,         ?,         ?,         ?,         ?,         ?,         now(),         now()         )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'biz_scene' cannot be null
+; Column 'biz_scene' cannot be null
+2026-07-11 11:47:30 [http-nio-8083-exec-9] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 2 :
+totalDuration < 960 ? 3 :
+totalDuration < 1280 ? 4 :
+totalDuration < 1600 ? 5 :
+totalDuration < 3200 ? 6 :
+totalDuration < 6400 ? 7 : 8
+2026-07-11 11:47:30 [http-nio-8083-exec-9] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage level: 2
+2026-07-11 11:47:30 [http-nio-8083-exec-9] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 1 :
+totalDuration < 960 ? 2 :
+totalDuration < 1280 ? 2 :
+totalDuration < 1600 ? 2 :
+totalDuration < 3200 ? 2 :
+totalDuration < 6400 ? 10 : 10
+2026-07-11 11:47:30 [http-nio-8083-exec-9] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount: 1
+2026-07-11 11:47:30 [http-nio-8083-exec-9] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - 调发奖
+2026-07-11 11:47:30 [http-nio-8083-exec-9] ERROR c.e.multi_stage_price.controller.SyncController - 
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'biz_scene' cannot be null
+### The error may exist in file [/Users/jiangzi/IdeaProjects/multi-stage-price/target/classes/mapper/PrizeRecordMapper.xml]
+### The error may involve com.example.multi_stage_price.mapper.PrizeRecordMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO prize_record         (         user_id,         biz_scene,         prize_code,         prize_date,         prize_stage,         prize_amount,         out_biz_no,         create_time,         update_time         )         VALUES         (         ?,         ?,         ?,         ?,         ?,         ?,         ?,         now(),         now()         )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'biz_scene' cannot be null
+; Column 'biz_scene' cannot be null
+2026-07-11 11:48:00 [http-nio-8083-exec-10] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 2 :
+totalDuration < 960 ? 3 :
+totalDuration < 1280 ? 4 :
+totalDuration < 1600 ? 5 :
+totalDuration < 3200 ? 6 :
+totalDuration < 6400 ? 7 : 8
+2026-07-11 11:48:00 [http-nio-8083-exec-10] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage level: 2
+2026-07-11 11:48:00 [http-nio-8083-exec-10] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 1 :
+totalDuration < 960 ? 2 :
+totalDuration < 1280 ? 2 :
+totalDuration < 1600 ? 2 :
+totalDuration < 3200 ? 2 :
+totalDuration < 6400 ? 10 : 10
+2026-07-11 11:48:00 [http-nio-8083-exec-10] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount: 1
+2026-07-11 11:48:00 [http-nio-8083-exec-10] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - 调发奖
+2026-07-11 11:48:00 [http-nio-8083-exec-10] ERROR c.e.multi_stage_price.controller.SyncController - 
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'biz_scene' cannot be null
+### The error may exist in file [/Users/jiangzi/IdeaProjects/multi-stage-price/target/classes/mapper/PrizeRecordMapper.xml]
+### The error may involve com.example.multi_stage_price.mapper.PrizeRecordMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO prize_record         (         user_id,         biz_scene,         prize_code,         prize_date,         prize_stage,         prize_amount,         out_biz_no,         create_time,         update_time         )         VALUES         (         ?,         ?,         ?,         ?,         ?,         ?,         ?,         now(),         now()         )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'biz_scene' cannot be null
+; Column 'biz_scene' cannot be null
+2026-07-11 11:48:28 [SpringApplicationShutdownHook] INFO  org.springframework.boot.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-07-11 11:48:28 [tomcat-shutdown] INFO  org.springframework.boot.tomcat.GracefulShutdown - Graceful shutdown complete
+2026-07-11 11:48:28 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2026-07-11 11:48:28 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2026-07-11 11:48:30 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Starting MultiStagePriceApplication using Java 21.0.11 with PID 92814 (/Users/jiangzi/IdeaProjects/multi-stage-price/target/classes started by jiangzi in /Users/jiangzi/IdeaProjects)
+2026-07-11 11:48:30 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - No active profile set, falling back to 1 default profile: "default"
+2026-07-11 11:48:31 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-07-11 11:48:31 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-07-11 11:48:31 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2026-07-11 11:48:31 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat initialized with port 8083 (http)
+2026-07-11 11:48:31 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8083"]
+2026-07-11 11:48:31 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-07-11 11:48:31 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-07-11 11:48:31 [main] INFO  o.s.b.w.c.servlet.WebApplicationContextInitializer - Root WebApplicationContext: initialization completed in 639 ms
+2026-07-11 11:48:32 [main] WARN  i.n.resolver.dns.DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+2026-07-11 11:48:32 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8083"]
+2026-07-11 11:48:32 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat started on port 8083 (http) with context path '/'
+2026-07-11 11:48:32 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Started MultiStagePriceApplication in 1.514 seconds (process running for 1.994)
+2026-07-11 11:49:51 [http-nio-8083-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-07-11 11:49:51 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-07-11 11:49:51 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2026-07-11 11:49:51 [http-nio-8083-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-07-11 11:49:51 [http-nio-8083-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@75189667
+2026-07-11 11:49:51 [http-nio-8083-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-07-11 11:49:51 [http-nio-8083-exec-1] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 2 :
+totalDuration < 960 ? 3 :
+totalDuration < 1280 ? 4 :
+totalDuration < 1600 ? 5 :
+totalDuration < 3200 ? 6 :
+totalDuration < 6400 ? 7 : 8
+2026-07-11 11:49:51 [http-nio-8083-exec-1] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage level: 2
+2026-07-11 11:49:51 [http-nio-8083-exec-1] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 1 :
+totalDuration < 960 ? 2 :
+totalDuration < 1280 ? 2 :
+totalDuration < 1600 ? 2 :
+totalDuration < 3200 ? 2 :
+totalDuration < 6400 ? 10 : 10
+2026-07-11 11:49:51 [http-nio-8083-exec-1] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount: 1
+2026-07-11 11:49:51 [http-nio-8083-exec-1] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - 调发奖
+2026-07-11 11:50:21 [http-nio-8083-exec-2] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 2 :
+totalDuration < 960 ? 3 :
+totalDuration < 1280 ? 4 :
+totalDuration < 1600 ? 5 :
+totalDuration < 3200 ? 6 :
+totalDuration < 6400 ? 7 : 8
+2026-07-11 11:50:21 [http-nio-8083-exec-2] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage level: 2
+2026-07-11 11:50:21 [http-nio-8083-exec-2] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 1 :
+totalDuration < 960 ? 2 :
+totalDuration < 1280 ? 2 :
+totalDuration < 1600 ? 2 :
+totalDuration < 3200 ? 2 :
+totalDuration < 6400 ? 10 : 10
+2026-07-11 11:50:21 [http-nio-8083-exec-2] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount: 1
+2026-07-11 11:50:21 [http-nio-8083-exec-2] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - 调发奖
+2026-07-11 11:50:51 [http-nio-8083-exec-4] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 2 :
+totalDuration < 960 ? 3 :
+totalDuration < 1280 ? 4 :
+totalDuration < 1600 ? 5 :
+totalDuration < 3200 ? 6 :
+totalDuration < 6400 ? 7 : 8
+2026-07-11 11:50:51 [http-nio-8083-exec-4] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage level: 2
+2026-07-11 11:50:51 [http-nio-8083-exec-4] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 1 :
+totalDuration < 960 ? 2 :
+totalDuration < 1280 ? 2 :
+totalDuration < 1600 ? 2 :
+totalDuration < 3200 ? 2 :
+totalDuration < 6400 ? 10 : 10
+2026-07-11 11:50:51 [http-nio-8083-exec-4] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount: 1
+2026-07-11 11:50:51 [http-nio-8083-exec-4] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - 调发奖
+2026-07-11 11:59:22 [SpringApplicationShutdownHook] INFO  org.springframework.boot.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-07-11 11:59:22 [tomcat-shutdown] INFO  org.springframework.boot.tomcat.GracefulShutdown - Graceful shutdown complete
+2026-07-11 11:59:22 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2026-07-11 11:59:22 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2026-07-11 11:59:25 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Starting MultiStagePriceApplication using Java 21.0.11 with PID 93040 (/Users/jiangzi/IdeaProjects/multi-stage-price/target/classes started by jiangzi in /Users/jiangzi/IdeaProjects)
+2026-07-11 11:59:25 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - No active profile set, falling back to 1 default profile: "default"
+2026-07-11 11:59:25 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-07-11 11:59:25 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-07-11 11:59:25 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2026-07-11 11:59:25 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat initialized with port 8083 (http)
+2026-07-11 11:59:25 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8083"]
+2026-07-11 11:59:25 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-07-11 11:59:25 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-07-11 11:59:25 [main] INFO  o.s.b.w.c.servlet.WebApplicationContextInitializer - Root WebApplicationContext: initialization completed in 638 ms
+2026-07-11 11:59:26 [main] WARN  i.n.resolver.dns.DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+2026-07-11 11:59:26 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8083"]
+2026-07-11 11:59:26 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat started on port 8083 (http) with context path '/'
+2026-07-11 11:59:26 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Started MultiStagePriceApplication in 1.404 seconds (process running for 1.945)
+2026-07-11 11:59:44 [http-nio-8083-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-07-11 11:59:44 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-07-11 11:59:44 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2026-07-11 11:59:44 [http-nio-8083-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-07-11 11:59:44 [http-nio-8083-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@593e3686
+2026-07-11 11:59:44 [http-nio-8083-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-07-11 12:12:44 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m57s310ms).
+2026-07-11 12:29:25 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m41s147ms).
+2026-07-11 13:50:57 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m1s32ms).
+2026-07-11 15:32:58 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m30s66ms).
+2026-07-11 15:52:36 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m7s490ms).
+2026-07-11 16:09:08 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m2s573ms).
+2026-07-11 16:25:14 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m35s955ms).
+2026-07-11 17:53:05 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m49s611ms).
+2026-07-11 20:17:31 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m54s191ms).
+2026-07-11 22:18:30 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=13m27s896ms).

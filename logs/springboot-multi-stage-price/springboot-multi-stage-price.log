@@ -1,0 +1,317 @@
+2026-07-12 02:11:04 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m131ms).
+2026-07-12 03:13:47 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m42s186ms).
+2026-07-12 03:29:37 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m49s985ms).
+2026-07-12 03:48:11 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m34s349ms).
+2026-07-12 04:06:15 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m33s795ms).
+2026-07-12 04:22:38 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m22s776ms).
+2026-07-12 04:57:05 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=34m27s343ms).
+2026-07-12 05:13:04 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m58s791ms).
+2026-07-12 05:31:36 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m1s832ms).
+2026-07-12 05:49:32 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m55s586ms).
+2026-07-12 06:06:08 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m36s769ms).
+2026-07-12 06:14:53 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m44s864ms).
+2026-07-12 06:49:26 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=34m32s456ms).
+2026-07-12 07:04:59 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m32s928ms).
+2026-07-12 07:15:55 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m56s98ms).
+2026-07-12 07:31:35 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m40s350ms).
+2026-07-12 08:06:48 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=34m974ms).
+2026-07-12 08:16:39 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m50s761ms).
+2026-07-12 08:33:31 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m22s851ms).
+2026-07-12 08:51:46 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m44s464ms).
+2026-07-12 09:09:14 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m27s769ms).
+2026-07-12 09:17:57 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m43s337ms).
+2026-07-12 09:36:14 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m16s799ms).
+2026-07-12 09:52:13 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m58s803ms).
+2026-07-12 10:09:58 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m45s548ms).
+2026-07-12 10:18:47 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m18s829ms).
+2026-07-12 10:38:58 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=19m40s551ms).
+2026-07-12 10:40:41 [SpringApplicationShutdownHook] INFO  org.springframework.boot.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-07-12 10:40:41 [tomcat-shutdown] INFO  org.springframework.boot.tomcat.GracefulShutdown - Graceful shutdown complete
+2026-07-12 10:40:41 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2026-07-12 10:40:41 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2026-07-12 10:40:43 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Starting MultiStagePriceApplication using Java 21.0.11 with PID 2020 (/Users/jiangzi/IdeaProjects/multi-stage-price/target/classes started by jiangzi in /Users/jiangzi/IdeaProjects)
+2026-07-12 10:40:43 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - No active profile set, falling back to 1 default profile: "default"
+2026-07-12 10:40:43 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-07-12 10:40:43 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-07-12 10:40:43 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 Redis repository interfaces.
+2026-07-12 10:40:44 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat initialized with port 8083 (http)
+2026-07-12 10:40:44 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8083"]
+2026-07-12 10:40:44 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-07-12 10:40:44 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-07-12 10:40:44 [main] INFO  o.s.b.w.c.servlet.WebApplicationContextInitializer - Root WebApplicationContext: initialization completed in 901 ms
+2026-07-12 10:40:44 [main] WARN  i.n.resolver.dns.DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+2026-07-12 10:40:44 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8083"]
+2026-07-12 10:40:44 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat started on port 8083 (http) with context path '/'
+2026-07-12 10:40:44 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Started MultiStagePriceApplication in 1.894 seconds (process running for 2.606)
+2026-07-12 10:40:49 [SpringApplicationShutdownHook] INFO  org.springframework.boot.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-07-12 10:40:49 [tomcat-shutdown] INFO  org.springframework.boot.tomcat.GracefulShutdown - Graceful shutdown complete
+2026-07-12 10:40:50 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Starting MultiStagePriceApplication using Java 21.0.11 with PID 2028 (/Users/jiangzi/IdeaProjects/multi-stage-price/target/classes started by jiangzi in /Users/jiangzi/IdeaProjects)
+2026-07-12 10:40:50 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - No active profile set, falling back to 1 default profile: "default"
+2026-07-12 10:40:51 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-07-12 10:40:51 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-07-12 10:40:51 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 Redis repository interfaces.
+2026-07-12 10:40:51 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat initialized with port 8083 (http)
+2026-07-12 10:40:51 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8083"]
+2026-07-12 10:40:51 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-07-12 10:40:51 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-07-12 10:40:51 [main] INFO  o.s.b.w.c.servlet.WebApplicationContextInitializer - Root WebApplicationContext: initialization completed in 841 ms
+2026-07-12 10:40:52 [main] WARN  i.n.resolver.dns.DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+2026-07-12 10:40:52 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8083"]
+2026-07-12 10:40:52 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat started on port 8083 (http) with context path '/'
+2026-07-12 10:40:52 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Started MultiStagePriceApplication in 1.845 seconds (process running for 2.484)
+2026-07-12 10:47:54 [SpringApplicationShutdownHook] INFO  org.springframework.boot.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-07-12 10:47:54 [tomcat-shutdown] INFO  org.springframework.boot.tomcat.GracefulShutdown - Graceful shutdown complete
+2026-07-12 10:56:11 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Starting MultiStagePriceApplication using Java 21.0.11 with PID 2520 (/Users/jiangzi/IdeaProjects/multi-stage-price/target/classes started by jiangzi in /Users/jiangzi/IdeaProjects)
+2026-07-12 10:56:11 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - No active profile set, falling back to 1 default profile: "default"
+2026-07-12 10:56:12 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-07-12 10:56:12 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-07-12 10:56:12 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2026-07-12 10:56:12 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat initialized with port 8083 (http)
+2026-07-12 10:56:12 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8083"]
+2026-07-12 10:56:12 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-07-12 10:56:12 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-07-12 10:56:12 [main] INFO  o.s.b.w.c.servlet.WebApplicationContextInitializer - Root WebApplicationContext: initialization completed in 854 ms
+2026-07-12 10:56:13 [main] WARN  i.n.resolver.dns.DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+2026-07-12 10:56:13 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8083"]
+2026-07-12 10:56:13 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat started on port 8083 (http) with context path '/'
+2026-07-12 10:56:13 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Started MultiStagePriceApplication in 2.009 seconds (process running for 2.788)
+2026-07-12 10:56:24 [SpringApplicationShutdownHook] INFO  org.springframework.boot.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-07-12 10:56:24 [tomcat-shutdown] INFO  org.springframework.boot.tomcat.GracefulShutdown - Graceful shutdown complete
+2026-07-12 10:56:29 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Starting MultiStagePriceApplication using Java 21.0.11 with PID 2531 (/Users/jiangzi/IdeaProjects/multi-stage-price/target/classes started by jiangzi in /Users/jiangzi/IdeaProjects)
+2026-07-12 10:56:29 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - No active profile set, falling back to 1 default profile: "default"
+2026-07-12 10:56:29 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-07-12 10:56:29 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-07-12 10:56:29 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2026-07-12 10:56:30 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat initialized with port 8083 (http)
+2026-07-12 10:56:30 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8083"]
+2026-07-12 10:56:30 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-07-12 10:56:30 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-07-12 10:56:30 [main] INFO  o.s.b.w.c.servlet.WebApplicationContextInitializer - Root WebApplicationContext: initialization completed in 1040 ms
+2026-07-12 10:56:31 [main] WARN  i.n.resolver.dns.DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+2026-07-12 10:56:31 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8083"]
+2026-07-12 10:56:32 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat started on port 8083 (http) with context path '/'
+2026-07-12 10:56:32 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Started MultiStagePriceApplication in 3.725 seconds (process running for 4.919)
+2026-07-12 10:59:44 [http-nio-8083-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-07-12 10:59:44 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-07-12 10:59:44 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2026-07-12 10:59:44 [http-nio-8083-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-07-12 10:59:45 [http-nio-8083-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@24323e7f
+2026-07-12 10:59:45 [http-nio-8083-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-07-12 10:59:45 [http-nio-8083-exec-1] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 2 :
+totalDuration < 960 ? 3 :
+totalDuration < 1280 ? 4 :
+totalDuration < 1600 ? 5 :
+totalDuration < 3200 ? 6 :
+totalDuration < 6400 ? 7 : 8
+2026-07-12 10:59:45 [http-nio-8083-exec-1] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage level: 0
+2026-07-12 10:59:45 [http-nio-8083-exec-1] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 1 :
+totalDuration < 960 ? 2 :
+totalDuration < 1280 ? 2 :
+totalDuration < 1600 ? 2 :
+totalDuration < 3200 ? 2 :
+totalDuration < 6400 ? 10 : 10
+2026-07-12 10:59:45 [http-nio-8083-exec-1] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount: 0
+2026-07-12 10:59:45 [http-nio-8083-exec-1] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - 调发奖
+2026-07-12 11:00:46 [http-nio-8083-exec-3] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 2 :
+totalDuration < 960 ? 3 :
+totalDuration < 1280 ? 4 :
+totalDuration < 1600 ? 5 :
+totalDuration < 3200 ? 6 :
+totalDuration < 6400 ? 7 : 8
+2026-07-12 11:00:46 [http-nio-8083-exec-3] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage level: 0
+2026-07-12 11:00:46 [http-nio-8083-exec-3] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 1 :
+totalDuration < 960 ? 2 :
+totalDuration < 1280 ? 2 :
+totalDuration < 1600 ? 2 :
+totalDuration < 3200 ? 2 :
+totalDuration < 6400 ? 10 : 10
+2026-07-12 11:00:46 [http-nio-8083-exec-3] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount: 0
+2026-07-12 11:00:46 [http-nio-8083-exec-3] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - 调发奖
+2026-07-12 11:01:17 [http-nio-8083-exec-4] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 2 :
+totalDuration < 960 ? 3 :
+totalDuration < 1280 ? 4 :
+totalDuration < 1600 ? 5 :
+totalDuration < 3200 ? 6 :
+totalDuration < 6400 ? 7 : 8
+2026-07-12 11:01:17 [http-nio-8083-exec-4] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage level: 0
+2026-07-12 11:01:17 [http-nio-8083-exec-4] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 1 :
+totalDuration < 960 ? 2 :
+totalDuration < 1280 ? 2 :
+totalDuration < 1600 ? 2 :
+totalDuration < 3200 ? 2 :
+totalDuration < 6400 ? 10 : 10
+2026-07-12 11:01:17 [http-nio-8083-exec-4] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount: 0
+2026-07-12 11:01:17 [http-nio-8083-exec-4] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - 调发奖
+2026-07-12 11:01:47 [http-nio-8083-exec-5] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 2 :
+totalDuration < 960 ? 3 :
+totalDuration < 1280 ? 4 :
+totalDuration < 1600 ? 5 :
+totalDuration < 3200 ? 6 :
+totalDuration < 6400 ? 7 : 8
+2026-07-12 11:01:47 [http-nio-8083-exec-5] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage level: 0
+2026-07-12 11:01:47 [http-nio-8083-exec-5] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 1 :
+totalDuration < 960 ? 2 :
+totalDuration < 1280 ? 2 :
+totalDuration < 1600 ? 2 :
+totalDuration < 3200 ? 2 :
+totalDuration < 6400 ? 10 : 10
+2026-07-12 11:01:47 [http-nio-8083-exec-5] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount: 0
+2026-07-12 11:01:47 [http-nio-8083-exec-5] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - 调发奖
+2026-07-12 11:02:17 [http-nio-8083-exec-6] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 2 :
+totalDuration < 960 ? 3 :
+totalDuration < 1280 ? 4 :
+totalDuration < 1600 ? 5 :
+totalDuration < 3200 ? 6 :
+totalDuration < 6400 ? 7 : 8
+2026-07-12 11:02:17 [http-nio-8083-exec-6] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage level: 0
+2026-07-12 11:02:17 [http-nio-8083-exec-6] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 1 :
+totalDuration < 960 ? 2 :
+totalDuration < 1280 ? 2 :
+totalDuration < 1600 ? 2 :
+totalDuration < 3200 ? 2 :
+totalDuration < 6400 ? 10 : 10
+2026-07-12 11:02:17 [http-nio-8083-exec-6] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount: 0
+2026-07-12 11:02:17 [http-nio-8083-exec-6] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - 调发奖
+2026-07-12 11:02:47 [http-nio-8083-exec-7] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 2 :
+totalDuration < 960 ? 3 :
+totalDuration < 1280 ? 4 :
+totalDuration < 1600 ? 5 :
+totalDuration < 3200 ? 6 :
+totalDuration < 6400 ? 7 : 8
+2026-07-12 11:02:47 [http-nio-8083-exec-7] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage level: 1
+2026-07-12 11:02:47 [http-nio-8083-exec-7] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 1 :
+totalDuration < 960 ? 2 :
+totalDuration < 1280 ? 2 :
+totalDuration < 1600 ? 2 :
+totalDuration < 3200 ? 2 :
+totalDuration < 6400 ? 10 : 10
+2026-07-12 11:02:47 [http-nio-8083-exec-7] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount: 1
+2026-07-12 11:02:47 [http-nio-8083-exec-7] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - 调发奖
+2026-07-12 11:03:17 [http-nio-8083-exec-8] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 2 :
+totalDuration < 960 ? 3 :
+totalDuration < 1280 ? 4 :
+totalDuration < 1600 ? 5 :
+totalDuration < 3200 ? 6 :
+totalDuration < 6400 ? 7 : 8
+2026-07-12 11:03:17 [http-nio-8083-exec-8] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage level: 1
+2026-07-12 11:03:17 [http-nio-8083-exec-8] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 1 :
+totalDuration < 960 ? 2 :
+totalDuration < 1280 ? 2 :
+totalDuration < 1600 ? 2 :
+totalDuration < 3200 ? 2 :
+totalDuration < 6400 ? 10 : 10
+2026-07-12 11:03:17 [http-nio-8083-exec-8] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount: 1
+2026-07-12 11:03:17 [http-nio-8083-exec-8] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - 调发奖
+2026-07-12 11:03:47 [http-nio-8083-exec-9] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 2 :
+totalDuration < 960 ? 3 :
+totalDuration < 1280 ? 4 :
+totalDuration < 1600 ? 5 :
+totalDuration < 3200 ? 6 :
+totalDuration < 6400 ? 7 : 8
+2026-07-12 11:03:47 [http-nio-8083-exec-9] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage level: 1
+2026-07-12 11:03:47 [http-nio-8083-exec-9] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 1 :
+totalDuration < 960 ? 2 :
+totalDuration < 1280 ? 2 :
+totalDuration < 1600 ? 2 :
+totalDuration < 3200 ? 2 :
+totalDuration < 6400 ? 10 : 10
+2026-07-12 11:03:47 [http-nio-8083-exec-9] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount: 1
+2026-07-12 11:03:47 [http-nio-8083-exec-9] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - 调发奖
+2026-07-12 11:04:20 [SpringApplicationShutdownHook] INFO  org.springframework.boot.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-07-12 11:04:20 [tomcat-shutdown] INFO  org.springframework.boot.tomcat.GracefulShutdown - Graceful shutdown complete
+2026-07-12 11:04:20 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2026-07-12 11:04:20 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2026-07-12 11:04:22 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Starting MultiStagePriceApplication using Java 21.0.11 with PID 2719 (/Users/jiangzi/IdeaProjects/multi-stage-price/target/classes started by jiangzi in /Users/jiangzi/IdeaProjects)
+2026-07-12 11:04:22 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - No active profile set, falling back to 1 default profile: "default"
+2026-07-12 11:04:23 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-07-12 11:04:23 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-07-12 11:04:23 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2026-07-12 11:04:23 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat initialized with port 8083 (http)
+2026-07-12 11:04:23 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8083"]
+2026-07-12 11:04:23 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-07-12 11:04:23 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-07-12 11:04:23 [main] INFO  o.s.b.w.c.servlet.WebApplicationContextInitializer - Root WebApplicationContext: initialization completed in 884 ms
+2026-07-12 11:04:24 [main] WARN  i.n.resolver.dns.DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+2026-07-12 11:04:25 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8083"]
+2026-07-12 11:04:25 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat started on port 8083 (http) with context path '/'
+2026-07-12 11:04:25 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Started MultiStagePriceApplication in 3.513 seconds (process running for 4.839)
+2026-07-12 11:05:19 [http-nio-8083-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-07-12 11:05:19 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-07-12 11:05:19 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2026-07-12 11:05:19 [http-nio-8083-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-07-12 11:05:19 [http-nio-8083-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@37ec2226
+2026-07-12 11:05:19 [http-nio-8083-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-07-12 11:05:19 [http-nio-8083-exec-1] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 2 :
+totalDuration < 960 ? 3 :
+totalDuration < 1280 ? 4 :
+totalDuration < 1600 ? 5 :
+totalDuration < 3200 ? 6 :
+totalDuration < 6400 ? 7 : 8
+2026-07-12 11:05:19 [http-nio-8083-exec-1] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage level: 1
+2026-07-12 11:05:19 [http-nio-8083-exec-1] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 1 :
+totalDuration < 960 ? 2 :
+totalDuration < 1280 ? 2 :
+totalDuration < 1600 ? 2 :
+totalDuration < 3200 ? 2 :
+totalDuration < 6400 ? 10 : 10
+2026-07-12 11:05:19 [http-nio-8083-exec-1] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount: 1
+2026-07-12 11:05:19 [http-nio-8083-exec-1] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - 调发奖
+2026-07-12 11:05:26 [http-nio-8083-exec-2] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 2 :
+totalDuration < 960 ? 3 :
+totalDuration < 1280 ? 4 :
+totalDuration < 1600 ? 5 :
+totalDuration < 3200 ? 6 :
+totalDuration < 6400 ? 7 : 8
+2026-07-12 11:05:26 [http-nio-8083-exec-2] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - stage level: 1
+2026-07-12 11:05:26 [http-nio-8083-exec-2] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount rule: totalDuration < 160 ? 0 :
+totalDuration < 320 ? 1 :
+totalDuration < 640 ? 1 :
+totalDuration < 960 ? 2 :
+totalDuration < 1280 ? 2 :
+totalDuration < 1600 ? 2 :
+totalDuration < 3200 ? 2 :
+totalDuration < 6400 ? 10 : 10
+2026-07-12 11:05:26 [http-nio-8083-exec-2] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - amount: 1
+2026-07-12 11:05:26 [http-nio-8083-exec-2] INFO  c.e.multi_stage_price.service.Impl.SyncServiceImpl - 调发奖
+2026-07-12 11:18:00 [SpringApplicationShutdownHook] INFO  org.springframework.boot.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-07-12 11:18:00 [tomcat-shutdown] INFO  org.springframework.boot.tomcat.GracefulShutdown - Graceful shutdown complete
+2026-07-12 11:18:00 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2026-07-12 11:18:00 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.example.coin_center.mapper.CoinMapper">
+
+    <!-- 实体映射 -->
+    <resultMap id="BaseResultMap" type="com.example.coin_center.entity.Coin">
+        <id column="id" property="id"/>
+        <result column="code" property="code"/>
+        <result column="price" property="price"/>
+        <result column="store" property="store"/>
+        <result column="last_operation_time" property="lastOperationTime"/>
+    </resultMap>
+
+    <!-- 添加 -->
+    <insert id="add" parameterType="com.example.coin_center.entity.Coin">
+        insert into coin(code, price, store, last_operation_time)
+        values (#{code}, #{price}, #{store}, now())
+    </insert>
+
+    <!-- 根据id查询 -->
+    <select id="queryById"
+            parameterType="int"
+            resultMap="BaseResultMap">
+        select *
+        from coin
+        where id = #{id}
+    </select>
+
+    <!-- 根据编号查询 -->
+    <select id="queryByCode"
+            parameterType="string"
+            resultMap="BaseResultMap">
+        select *
+        from coin
+        where code = #{code}
+    </select>
+
+    <!-- 分页查询 -->
+    <select id="queryAll"
+            resultMap="BaseResultMap">
+        select *
+        from coin
+                 limit #{start}, #{pageSize}
+    </select>
+
+    <!-- 修改 -->
+    <update id="modify"
+            parameterType="com.example.coin_center.entity.Coin">
+        update coin
+        <set>
+            <if test="price != null">
+                price = #{price},
+            </if>
+            <if test="store != null">
+                store = #{store},
+            </if>
+            <if test="lastOperationTime != null">
+                last_operation_time = now(),
+            </if>
+        </set>
+        where id = #{id}
+    </update>
+
+    <!-- 删除 -->
+    <delete id="delete"
+            parameterType="int">
+        delete
+        from coin
+        where id = #{id}
+    </delete>
+
+</mapper>
