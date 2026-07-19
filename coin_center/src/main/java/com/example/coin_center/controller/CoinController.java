@@ -8,10 +8,12 @@ import com.example.coin_center.controller.vo.CoinVO;
 import com.example.coin_center.controller.vo.MultiCoinVO;
 import com.example.coin_center.controller.vo.SingleCoinVO;
 import com.example.coin_center.entity.Coin;
+import com.example.coin_center.exception.CoinNotEnoughException;
 import com.example.coin_center.exception.CoinNotExistException;
 import com.example.coin_center.service.CoinService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.dao.DuplicateKeyException;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
@@ -120,6 +122,47 @@ public class CoinController {
             endTime = System.currentTimeMillis();
             log.error(e.getMessage());
             return BaseVO.buildBaseVO(500, false, endTime - startTime, "其他异常");
+        }
+    }
+
+    @PutMapping("/decrease-store")
+    public BaseVO decreaseStore(String code, int amount,String outBizNo){
+        long startTime = System.currentTimeMillis();
+        long endTime;
+        try{
+            coinService.decreaseStore(code,amount,outBizNo);
+            endTime = System.currentTimeMillis();
+            return BaseVO.buildBaseVO(200, true, endTime - startTime, null);
+        } catch (CoinNotExistException e){
+            endTime = System.currentTimeMillis();
+            log.error(e.getMessage());
+            return BaseVO.buildBaseVO(500, false, endTime - startTime, e.getMessage());
+        } catch (CoinNotEnoughException e){
+            endTime = System.currentTimeMillis();
+            log.error(e.getMessage());
+            return BaseVO.buildBaseVO(500, false, endTime - startTime, e.getMessage());
+        } catch (DuplicateKeyException e){
+            endTime = System.currentTimeMillis();
+            return BaseVO.buildBaseVO(200, true, endTime - startTime, null);
+        } catch(Exception e) {
+            endTime = System.currentTimeMillis();
+            log.error(e.getMessage());
+            return BaseVO.buildBaseVO(500, false, endTime - startTime, "其他异常");
+        }
+    }
+
+    @DeleteMapping("/delete")
+    public BaseVO delete(int id){
+        long startTime = System.currentTimeMillis();
+        long endTime;
+        try {
+            coinService.delete(id);
+            endTime = System.currentTimeMillis();
+            return BaseVO.buildBaseVO(200, true, endTime - startTime, null);
+        } catch (Exception e) {
+            endTime = System.currentTimeMillis();
+            log.error(e.getMessage());
+            return BaseVO.buildBaseVO(500, false, endTime - startTime, "其他未知异常");
         }
     }
 

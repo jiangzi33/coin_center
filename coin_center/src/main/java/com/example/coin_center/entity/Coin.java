@@ -5,7 +5,7 @@ import java.util.Date;
 public class Coin {
     private int id;
     private String code;
-    private int price;
+    private double price;
     private int store;
     private Date lastOperationTime;
 
@@ -25,11 +25,11 @@ public class Coin {
         this.code = code;
     }
 
-    public int getPrice() {
+    public double getPrice() {
         return price;
     }
 
-    public void setPrice(int price) {
+    public void setPrice(double price) {
         this.price = price;
     }
 

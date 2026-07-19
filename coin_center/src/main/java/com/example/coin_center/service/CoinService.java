@@ -13,4 +13,5 @@ public interface CoinService {
     List<Coin> queryAll(int start, int pageSize);
     void modify(UpdateCoinCmd cmd);
     void delete(int id);
+    void decreaseStore(String code, int amount, String outBizNo);
 }

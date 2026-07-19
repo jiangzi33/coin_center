@@ -14,14 +14,13 @@
     </resultMap>
 
     <!-- 添加 -->
-    <insert id="add" parameterType="com.example.coin_center.entity.Coin">
+    <insert id="add">
         insert into coin(code, price, store, last_operation_time)
         values (#{code}, #{price}, #{store}, now())
     </insert>
 
     <!-- 根据id查询 -->
     <select id="queryById"
-            parameterType="int"
             resultMap="BaseResultMap">
         select *
         from coin
@@ -30,7 +29,6 @@
 
     <!-- 根据编号查询 -->
     <select id="queryByCode"
-            parameterType="string"
             resultMap="BaseResultMap">
         select *
         from coin
@@ -46,8 +44,7 @@
     </select>
 
     <!-- 修改 -->
-    <update id="modify"
-            parameterType="com.example.coin_center.entity.Coin">
+    <update id="modify">
         update coin
         <set>
             <if test="price != null">
@@ -64,8 +61,7 @@
     </update>
 
     <!-- 删除 -->
-    <delete id="delete"
-            parameterType="int">
+    <delete id="delete">
         delete
         from coin
         where id = #{id}

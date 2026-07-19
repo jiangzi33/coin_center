@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.example.coin_center.mapper.CoinRecordMapper">
+
+    <!-- 实体映射 -->
+    <resultMap id="BaseResultMap" type="com.example.coin_center.entity.CoinRecord">
+        <id property="id" column="id"/>
+        <result property="code" column="code"/>
+        <result property="outBizNo" column="out_biz_no"/>
+        <result property="prizeTime" column="prize_time"/>
+        <result property="amount" column="amount"/>
+    </resultMap>
+
+    <!-- 插入 -->
+    <insert id="insert" parameterType="com.example.coin_center.entity.CoinRecord"
+            useGeneratedKeys="true" keyProperty="id">
+        INSERT INTO coin_record
+        (
+        code,
+        out_biz_no,
+        prize_time,
+        amount
+        )
+        VALUES
+        (
+        #{code},
+        #{outBizNo},
+        now(),
+        #{amount}
+        )
+    </insert>
+
+    <!-- 按时间分页查询 -->
+    <select id="queryByTime" resultMap="BaseResultMap">
+        SELECT
+        id,
+        code,
+        out_biz_no,
+        prize_time,
+        amount
+        FROM coin_record
+        WHERE prize_time BETWEEN #{startTime} AND #{endTime}
+        ORDER BY prize_time DESC
+        LIMIT #{start}, #{pageSize}
+    </select>
+
+    <!-- 根据id删除 -->
+    <delete id="delete">
+        DELETE FROM coin_record
+        WHERE id = #{id}
+    </delete>
+
+</mapper>
