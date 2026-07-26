@@ -9,4 +9,5 @@ public interface CoinRecordService {
     void insert(CoinRecord coinRecord);
     List<CoinRecord> queryByTime(int start, int pageSize, Date startTime, Date endTime);
     void delete(int id);
+    List<CoinRecord> queryLastMinute();
 }

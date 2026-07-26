@@ -60,4 +60,26 @@ public class CoinRecordController {
             return BaseVO.buildBaseVO(500, false, endTime - startTime, "其他未知异常");
         }
     }
+
+    @GetMapping("/query-last-time")
+    public MultiCoinRecordVO queryLastMinute(){
+        long start_Time = System.currentTimeMillis();
+        long end_Time;
+        MultiCoinRecordVO multiCoinRecordVO = new MultiCoinRecordVO();
+        try {
+            List<CoinRecord> coinRecords = coinRecordService.queryLastMinute();
+            List<CoinRecordVO> coinRecordVOS = CoinRecordVOConverter.convertList(coinRecords);
+            end_Time = System.currentTimeMillis();
+            BaseVO baseVO = BaseVO.buildBaseVO(200, true, end_Time - start_Time, null);
+            multiCoinRecordVO.setCoinRecordVOList(coinRecordVOS);
+            multiCoinRecordVO.setBaseVO(baseVO);
+            return multiCoinRecordVO;
+        } catch (Exception e) {
+            end_Time = System.currentTimeMillis();
+            log.error(e.getMessage());
+            BaseVO baseVO = BaseVO.buildBaseVO(500, false, end_Time - start_Time, "其他未知异常");
+            multiCoinRecordVO.setBaseVO(baseVO);
+            return multiCoinRecordVO;
+        }
+    }
 }
