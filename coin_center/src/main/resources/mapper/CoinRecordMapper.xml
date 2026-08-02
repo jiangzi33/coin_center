@@ -52,16 +52,4 @@
         WHERE id = #{id}
     </delete>
 
-    <select id="queryLastMinute"
-            resultMap="BaseResultMap">
-
-        SELECT
-        *
-        FROM coin_record
-        WHERE prize_time <![CDATA[ >= ]]> date_add(now(),interval -1 minute)
-        AND prize_time <![CDATA[ < ]]> now()
-        ORDER BY prize_time DESC
-
-    </select>
-
 </mapper>

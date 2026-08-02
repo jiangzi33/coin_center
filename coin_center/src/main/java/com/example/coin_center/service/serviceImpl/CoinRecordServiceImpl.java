@@ -27,9 +27,4 @@ public class CoinRecordServiceImpl implements CoinRecordService {
     public void delete(int id) {
         coinRecordMapper.delete(id);
     }
-
-    @Override
-    public List<CoinRecord> queryLastMinute() {
-        return coinRecordMapper.queryLastMinute();
-    }
 }
