@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
-  <component name="KubernetesApiProvider"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider">{}</component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/music/pom.xml" />
         <option value="$PROJECT_DIR$/multi-stage-price/pom.xml" />
         <option value="$PROJECT_DIR$/coin_center/pom.xml" />
+        <option value="$PROJECT_DIR$/AI-chat-bot/pom.xml" />
       </list>
     </option>
   </component>

@@ -1,269 +1,116 @@
-2026-07-26 00:00:16 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=13m1s644ms).
-2026-07-26 00:00:31 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sat Jul 25 23:59:31 CEST 2026 to Sun Jul 26 00:00:31 CEST 2026
-2026-07-26 00:00:31 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 00:00:31 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sat Jul 25 23:59:31 CEST 2026 to Sun Jul 26 00:00:31 CEST 2026 everything is normal
-2026-07-26 00:01:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 00:00:00 CEST 2026 to Sun Jul 26 00:01:00 CEST 2026
-2026-07-26 00:01:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 00:01:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 00:00:00 CEST 2026 to Sun Jul 26 00:01:00 CEST 2026 everything is normal
-2026-07-26 00:15:31 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=14m45s50ms).
-2026-07-26 00:29:46 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 00:28:46 CEST 2026 to Sun Jul 26 00:29:46 CEST 2026
-2026-07-26 00:29:46 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 00:29:46 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 00:28:46 CEST 2026 to Sun Jul 26 00:29:46 CEST 2026 everything is normal
-2026-07-26 00:30:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 00:29:00 CEST 2026 to Sun Jul 26 00:30:00 CEST 2026
-2026-07-26 00:30:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 00:30:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 00:29:00 CEST 2026 to Sun Jul 26 00:30:00 CEST 2026 everything is normal
-2026-07-26 00:30:02 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=14m1s230ms).
-2026-07-26 00:47:56 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m54s92ms).
-2026-07-26 01:05:22 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 01:04:22 CEST 2026 to Sun Jul 26 01:05:22 CEST 2026
-2026-07-26 01:05:22 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 01:05:22 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 01:04:22 CEST 2026 to Sun Jul 26 01:05:22 CEST 2026 everything is normal
-2026-07-26 01:05:24 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m28s89ms).
-2026-07-26 01:20:53 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m29s297ms).
-2026-07-26 01:20:59 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 01:19:59 CEST 2026 to Sun Jul 26 01:20:59 CEST 2026
-2026-07-26 01:20:59 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 01:20:59 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 01:19:59 CEST 2026 to Sun Jul 26 01:20:59 CEST 2026 everything is normal
-2026-07-26 01:21:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 01:20:00 CEST 2026 to Sun Jul 26 01:21:00 CEST 2026
-2026-07-26 01:21:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 01:21:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 01:20:00 CEST 2026 to Sun Jul 26 01:21:00 CEST 2026 everything is normal
-2026-07-26 01:30:36 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m42s305ms).
-2026-07-26 01:31:12 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 01:30:12 CEST 2026 to Sun Jul 26 01:31:12 CEST 2026
-2026-07-26 01:31:12 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 01:31:12 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 01:30:12 CEST 2026 to Sun Jul 26 01:31:12 CEST 2026 everything is normal
-2026-07-26 01:55:47 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=24m41s650ms).
-2026-07-26 01:56:11 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 01:55:11 CEST 2026 to Sun Jul 26 01:56:11 CEST 2026
-2026-07-26 01:56:11 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 01:56:11 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 01:55:11 CEST 2026 to Sun Jul 26 01:56:11 CEST 2026 everything is normal
-2026-07-26 02:13:58 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m40s374ms).
-2026-07-26 02:14:10 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 02:13:10 CEST 2026 to Sun Jul 26 02:14:10 CEST 2026
-2026-07-26 02:14:10 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 02:14:10 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 02:13:10 CEST 2026 to Sun Jul 26 02:14:10 CEST 2026 everything is normal
-2026-07-26 02:15:10 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m12s210ms).
-2026-07-26 02:15:42 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 02:14:42 CEST 2026 to Sun Jul 26 02:15:42 CEST 2026
-2026-07-26 02:15:42 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 02:15:42 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 02:14:42 CEST 2026 to Sun Jul 26 02:15:42 CEST 2026 everything is normal
-2026-07-26 02:31:34 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 02:30:34 CEST 2026 to Sun Jul 26 02:31:34 CEST 2026
-2026-07-26 02:31:34 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 02:31:34 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 02:30:34 CEST 2026 to Sun Jul 26 02:31:34 CEST 2026 everything is normal
-2026-07-26 02:31:45 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m4s601ms).
-2026-07-26 02:32:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 02:31:00 CEST 2026 to Sun Jul 26 02:32:00 CEST 2026
-2026-07-26 02:32:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 02:32:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 02:31:00 CEST 2026 to Sun Jul 26 02:32:00 CEST 2026 everything is normal
-2026-07-26 02:35:01 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m16s792ms).
-2026-07-26 02:35:46 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 02:34:46 CEST 2026 to Sun Jul 26 02:35:46 CEST 2026
-2026-07-26 02:35:46 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 02:35:46 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 02:34:46 CEST 2026 to Sun Jul 26 02:35:46 CEST 2026 everything is normal
-2026-07-26 03:05:10 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 03:04:10 CEST 2026 to Sun Jul 26 03:05:10 CEST 2026
-2026-07-26 03:05:10 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 03:05:10 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 03:04:10 CEST 2026 to Sun Jul 26 03:05:10 CEST 2026 everything is normal
-2026-07-26 03:05:12 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=29m40s669ms).
-2026-07-26 03:32:28 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 03:31:28 CEST 2026 to Sun Jul 26 03:32:28 CEST 2026
-2026-07-26 03:32:28 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 03:32:28 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 03:31:28 CEST 2026 to Sun Jul 26 03:32:28 CEST 2026 everything is normal
-2026-07-26 03:32:41 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=26m58s690ms).
-2026-07-26 03:33:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 03:32:00 CEST 2026 to Sun Jul 26 03:33:00 CEST 2026
-2026-07-26 03:33:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 03:33:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 03:32:00 CEST 2026 to Sun Jul 26 03:33:00 CEST 2026 everything is normal
-2026-07-26 04:04:39 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=31m27s793ms).
-2026-07-26 04:04:57 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 04:03:57 CEST 2026 to Sun Jul 26 04:04:57 CEST 2026
-2026-07-26 04:04:57 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 04:04:57 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 04:03:57 CEST 2026 to Sun Jul 26 04:04:57 CEST 2026 everything is normal
-2026-07-26 04:05:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 04:04:00 CEST 2026 to Sun Jul 26 04:05:00 CEST 2026
-2026-07-26 04:05:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 04:05:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 04:04:00 CEST 2026 to Sun Jul 26 04:05:00 CEST 2026 everything is normal
-2026-07-26 04:19:08 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=14m29s145ms).
-2026-07-26 04:52:02 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 04:51:02 CEST 2026 to Sun Jul 26 04:52:02 CEST 2026
-2026-07-26 04:52:02 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 04:52:02 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 04:51:02 CEST 2026 to Sun Jul 26 04:52:02 CEST 2026 everything is normal
-2026-07-26 04:52:11 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=32m33s571ms).
-2026-07-26 05:23:34 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 05:22:34 CEST 2026 to Sun Jul 26 05:23:34 CEST 2026
-2026-07-26 05:23:34 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 05:23:34 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 05:22:34 CEST 2026 to Sun Jul 26 05:23:34 CEST 2026 everything is normal
-2026-07-26 05:23:46 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=31m4s854ms).
-2026-07-26 05:24:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 05:23:00 CEST 2026 to Sun Jul 26 05:24:00 CEST 2026
-2026-07-26 05:24:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 05:24:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 05:23:00 CEST 2026 to Sun Jul 26 05:24:00 CEST 2026 everything is normal
-2026-07-26 05:40:48 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m1s655ms).
-2026-07-26 05:56:16 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m28s211ms).
-2026-07-26 06:12:55 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 06:11:55 CEST 2026 to Sun Jul 26 06:12:55 CEST 2026
-2026-07-26 06:12:55 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 06:12:55 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 06:11:55 CEST 2026 to Sun Jul 26 06:12:55 CEST 2026 everything is normal
-2026-07-26 06:13:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 06:12:00 CEST 2026 to Sun Jul 26 06:13:00 CEST 2026
-2026-07-26 06:13:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 06:13:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 06:12:00 CEST 2026 to Sun Jul 26 06:13:00 CEST 2026 everything is normal
-2026-07-26 06:13:11 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m55s368ms).
-2026-07-26 06:28:41 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m29s691ms).
-2026-07-26 06:43:59 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 06:42:59 CEST 2026 to Sun Jul 26 06:43:59 CEST 2026
-2026-07-26 06:43:59 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 06:43:59 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 06:42:59 CEST 2026 to Sun Jul 26 06:43:59 CEST 2026 everything is normal
-2026-07-26 06:44:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 06:43:00 CEST 2026 to Sun Jul 26 06:44:00 CEST 2026
-2026-07-26 06:44:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 06:44:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 06:43:00 CEST 2026 to Sun Jul 26 06:44:00 CEST 2026 everything is normal
-2026-07-26 06:44:11 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m29s690ms).
-2026-07-26 06:59:59 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 06:58:59 CEST 2026 to Sun Jul 26 06:59:59 CEST 2026
-2026-07-26 06:59:59 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 06:59:59 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 06:58:59 CEST 2026 to Sun Jul 26 06:59:59 CEST 2026 everything is normal
-2026-07-26 07:00:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 06:59:00 CEST 2026 to Sun Jul 26 07:00:00 CEST 2026
-2026-07-26 07:00:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 07:00:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 06:59:00 CEST 2026 to Sun Jul 26 07:00:00 CEST 2026 everything is normal
-2026-07-26 07:00:10 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m29s684ms).
-2026-07-26 07:15:41 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m30s764ms).
-2026-07-26 07:16:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 07:15:00 CEST 2026 to Sun Jul 26 07:16:00 CEST 2026
-2026-07-26 07:16:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 07:16:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 07:15:00 CEST 2026 to Sun Jul 26 07:16:00 CEST 2026 everything is normal
-2026-07-26 07:24:47 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m35s754ms).
-2026-07-26 07:25:05 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 07:24:05 CEST 2026 to Sun Jul 26 07:25:05 CEST 2026
-2026-07-26 07:25:05 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 07:25:05 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 07:24:05 CEST 2026 to Sun Jul 26 07:25:05 CEST 2026 everything is normal
-2026-07-26 07:40:17 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m29s864ms).
-2026-07-26 07:40:59 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 07:39:59 CEST 2026 to Sun Jul 26 07:40:59 CEST 2026
-2026-07-26 07:40:59 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 07:40:59 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 07:39:59 CEST 2026 to Sun Jul 26 07:40:59 CEST 2026 everything is normal
-2026-07-26 07:41:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 07:40:00 CEST 2026 to Sun Jul 26 07:41:00 CEST 2026
-2026-07-26 07:41:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 07:41:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 07:40:00 CEST 2026 to Sun Jul 26 07:41:00 CEST 2026 everything is normal
-2026-07-26 07:56:17 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m29s845ms).
-2026-07-26 08:11:58 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 08:10:58 CEST 2026 to Sun Jul 26 08:11:58 CEST 2026
-2026-07-26 08:11:58 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 08:11:58 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 08:10:58 CEST 2026 to Sun Jul 26 08:11:58 CEST 2026 everything is normal
-2026-07-26 08:12:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 08:11:00 CEST 2026 to Sun Jul 26 08:12:00 CEST 2026
-2026-07-26 08:12:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 08:12:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 08:11:00 CEST 2026 to Sun Jul 26 08:12:00 CEST 2026 everything is normal
-2026-07-26 08:12:16 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m28s868ms).
-2026-07-26 08:13:06 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 08:12:06 CEST 2026 to Sun Jul 26 08:13:06 CEST 2026
-2026-07-26 08:13:06 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 08:13:06 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 08:12:06 CEST 2026 to Sun Jul 26 08:13:06 CEST 2026 everything is normal
-2026-07-26 08:20:26 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m3s558ms).
-2026-07-26 08:20:33 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 08:19:33 CEST 2026 to Sun Jul 26 08:20:33 CEST 2026
-2026-07-26 08:20:33 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 08:20:33 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 08:19:33 CEST 2026 to Sun Jul 26 08:20:33 CEST 2026 everything is normal
-2026-07-26 08:38:47 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m20s373ms).
-2026-07-26 08:38:50 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 08:37:50 CEST 2026 to Sun Jul 26 08:38:50 CEST 2026
-2026-07-26 08:38:50 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 08:38:50 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 08:37:50 CEST 2026 to Sun Jul 26 08:38:50 CEST 2026 everything is normal
-2026-07-26 08:53:59 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 08:52:59 CEST 2026 to Sun Jul 26 08:53:59 CEST 2026
-2026-07-26 08:53:59 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 08:53:59 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 08:52:59 CEST 2026 to Sun Jul 26 08:53:59 CEST 2026 everything is normal
-2026-07-26 08:54:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 08:53:00 CEST 2026 to Sun Jul 26 08:54:00 CEST 2026
-2026-07-26 08:54:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 08:54:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 08:53:00 CEST 2026 to Sun Jul 26 08:54:00 CEST 2026 everything is normal
-2026-07-26 08:54:16 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m29s369ms).
-2026-07-26 09:25:30 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=31m14s508ms).
-2026-07-26 09:25:44 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 09:24:44 CEST 2026 to Sun Jul 26 09:25:44 CEST 2026
-2026-07-26 09:25:44 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 09:25:44 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 09:24:44 CEST 2026 to Sun Jul 26 09:25:44 CEST 2026 everything is normal
-2026-07-26 09:26:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 09:25:00 CEST 2026 to Sun Jul 26 09:26:00 CEST 2026
-2026-07-26 09:26:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 09:26:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 09:25:00 CEST 2026 to Sun Jul 26 09:26:00 CEST 2026 everything is normal
-2026-07-26 09:41:32 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m31s306ms).
-2026-07-26 09:42:01 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 09:41:01 CEST 2026 to Sun Jul 26 09:42:01 CEST 2026
-2026-07-26 09:42:01 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 09:42:01 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 09:41:01 CEST 2026 to Sun Jul 26 09:42:01 CEST 2026 everything is normal
-2026-07-26 10:01:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 10:00:00 CEST 2026 to Sun Jul 26 10:01:00 CEST 2026
-2026-07-26 10:01:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 10:01:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 10:00:00 CEST 2026 to Sun Jul 26 10:01:00 CEST 2026 everything is normal
-2026-07-26 10:01:02 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m26s680ms).
-2026-07-26 10:02:05 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 10:01:05 CEST 2026 to Sun Jul 26 10:02:05 CEST 2026
-2026-07-26 10:02:05 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 10:02:05 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 10:01:05 CEST 2026 to Sun Jul 26 10:02:05 CEST 2026 everything is normal
-2026-07-26 10:03:07 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 10:02:07 CEST 2026 to Sun Jul 26 10:03:07 CEST 2026
-2026-07-26 10:03:07 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 10:03:07 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 10:02:07 CEST 2026 to Sun Jul 26 10:03:07 CEST 2026 everything is normal
-2026-07-26 10:04:06 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 10:03:06 CEST 2026 to Sun Jul 26 10:04:06 CEST 2026
-2026-07-26 10:04:06 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 10:04:06 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 10:03:06 CEST 2026 to Sun Jul 26 10:04:06 CEST 2026 everything is normal
-2026-07-26 10:05:12 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 10:04:12 CEST 2026 to Sun Jul 26 10:05:12 CEST 2026
-2026-07-26 10:05:12 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 10:05:12 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 10:04:12 CEST 2026 to Sun Jul 26 10:05:12 CEST 2026 everything is normal
-2026-07-26 10:06:02 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 10:05:02 CEST 2026 to Sun Jul 26 10:06:02 CEST 2026
-2026-07-26 10:06:02 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 10:06:02 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 10:05:02 CEST 2026 to Sun Jul 26 10:06:02 CEST 2026 everything is normal
-2026-07-26 10:22:01 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 10:21:01 CEST 2026 to Sun Jul 26 10:22:01 CEST 2026
-2026-07-26 10:22:01 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 10:22:01 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 10:21:01 CEST 2026 to Sun Jul 26 10:22:01 CEST 2026 everything is normal
-2026-07-26 10:22:09 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m31s951ms).
-2026-07-26 10:26:29 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m20s482ms).
-2026-07-26 10:26:50 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 10:25:50 CEST 2026 to Sun Jul 26 10:26:50 CEST 2026
-2026-07-26 10:26:50 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 10:26:50 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 10:25:50 CEST 2026 to Sun Jul 26 10:26:50 CEST 2026 everything is normal
-2026-07-26 10:27:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 10:26:00 CEST 2026 to Sun Jul 26 10:27:00 CEST 2026
-2026-07-26 10:27:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 10:27:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 10:26:00 CEST 2026 to Sun Jul 26 10:27:00 CEST 2026 everything is normal
-2026-07-26 10:42:30 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m30s733ms).
-2026-07-26 10:43:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 10:42:00 CEST 2026 to Sun Jul 26 10:43:00 CEST 2026
-2026-07-26 10:43:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 10:43:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 10:42:00 CEST 2026 to Sun Jul 26 10:43:00 CEST 2026 everything is normal
-2026-07-26 11:00:38 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m37s507ms).
-2026-07-26 11:01:14 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 11:00:14 CEST 2026 to Sun Jul 26 11:01:14 CEST 2026
-2026-07-26 11:01:14 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 11:01:14 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 11:00:14 CEST 2026 to Sun Jul 26 11:01:14 CEST 2026 everything is normal
-2026-07-26 11:02:06 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 11:01:06 CEST 2026 to Sun Jul 26 11:02:06 CEST 2026
-2026-07-26 11:02:06 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 11:02:06 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 11:01:06 CEST 2026 to Sun Jul 26 11:02:06 CEST 2026 everything is normal
-2026-07-26 11:03:04 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 11:02:04 CEST 2026 to Sun Jul 26 11:03:04 CEST 2026
-2026-07-26 11:03:04 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 11:03:04 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 11:02:04 CEST 2026 to Sun Jul 26 11:03:04 CEST 2026 everything is normal
-2026-07-26 11:04:06 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 11:03:06 CEST 2026 to Sun Jul 26 11:04:06 CEST 2026
-2026-07-26 11:04:06 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 11:04:06 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 11:03:06 CEST 2026 to Sun Jul 26 11:04:06 CEST 2026 everything is normal
-2026-07-26 11:05:05 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 11:04:05 CEST 2026 to Sun Jul 26 11:05:05 CEST 2026
-2026-07-26 11:05:05 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 11:05:05 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 11:04:05 CEST 2026 to Sun Jul 26 11:05:05 CEST 2026 everything is normal
-2026-07-26 11:06:06 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 11:05:06 CEST 2026 to Sun Jul 26 11:06:06 CEST 2026
-2026-07-26 11:06:06 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 11:06:06 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 11:05:06 CEST 2026 to Sun Jul 26 11:06:06 CEST 2026 everything is normal
-2026-07-26 11:07:06 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 11:06:06 CEST 2026 to Sun Jul 26 11:07:06 CEST 2026
-2026-07-26 11:07:06 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 11:07:06 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 11:06:06 CEST 2026 to Sun Jul 26 11:07:06 CEST 2026 everything is normal
-2026-07-26 11:08:06 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 11:07:06 CEST 2026 to Sun Jul 26 11:08:06 CEST 2026
-2026-07-26 11:08:06 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 11:08:06 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 11:07:06 CEST 2026 to Sun Jul 26 11:08:06 CEST 2026 everything is normal
-2026-07-26 11:09:06 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 11:08:06 CEST 2026 to Sun Jul 26 11:09:06 CEST 2026
-2026-07-26 11:09:06 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 11:09:06 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 11:08:06 CEST 2026 to Sun Jul 26 11:09:06 CEST 2026 everything is normal
-2026-07-26 11:10:12 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 11:09:12 CEST 2026 to Sun Jul 26 11:10:12 CEST 2026
-2026-07-26 11:10:12 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 11:10:12 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 11:09:12 CEST 2026 to Sun Jul 26 11:10:12 CEST 2026 everything is normal
-2026-07-26 11:18:05 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 11:17:05 CEST 2026 to Sun Jul 26 11:18:05 CEST 2026
-2026-07-26 11:18:05 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 11:18:05 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 11:17:05 CEST 2026 to Sun Jul 26 11:18:05 CEST 2026 everything is normal
-2026-07-26 11:18:22 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m35s905ms).
-2026-07-26 11:18:59 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 11:17:59 CEST 2026 to Sun Jul 26 11:18:59 CEST 2026
-2026-07-26 11:19:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 11:19:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 11:18:00 CEST 2026 to Sun Jul 26 11:19:00 CEST 2026 everything is normal
-2026-07-26 11:20:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 11:19:00 CEST 2026 to Sun Jul 26 11:20:00 CEST 2026
-2026-07-26 11:20:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 11:20:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 11:19:00 CEST 2026 to Sun Jul 26 11:20:00 CEST 2026 everything is normal
-2026-07-26 11:21:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 11:20:00 CEST 2026 to Sun Jul 26 11:21:00 CEST 2026
-2026-07-26 11:21:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 11:21:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 11:20:00 CEST 2026 to Sun Jul 26 11:21:00 CEST 2026 everything is normal
-2026-07-26 11:22:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 11:21:00 CEST 2026 to Sun Jul 26 11:22:00 CEST 2026
-2026-07-26 11:22:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 11:22:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 11:21:00 CEST 2026 to Sun Jul 26 11:22:00 CEST 2026 everything is normal
-2026-07-26 11:23:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 11:22:00 CEST 2026 to Sun Jul 26 11:23:00 CEST 2026
-2026-07-26 11:23:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 11:23:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 11:22:00 CEST 2026 to Sun Jul 26 11:23:00 CEST 2026 everything is normal
-2026-07-26 11:24:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 11:23:00 CEST 2026 to Sun Jul 26 11:24:00 CEST 2026
-2026-07-26 11:24:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 11:24:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 11:23:00 CEST 2026 to Sun Jul 26 11:24:00 CEST 2026 everything is normal
-2026-07-26 11:25:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 11:24:00 CEST 2026 to Sun Jul 26 11:25:00 CEST 2026
-2026-07-26 11:25:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 11:25:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 11:24:00 CEST 2026 to Sun Jul 26 11:25:00 CEST 2026 everything is normal
-2026-07-26 11:26:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 11:25:00 CEST 2026 to Sun Jul 26 11:26:00 CEST 2026
-2026-07-26 11:26:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 11:26:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 11:25:00 CEST 2026 to Sun Jul 26 11:26:00 CEST 2026 everything is normal
-2026-07-26 11:27:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 11:26:00 CEST 2026 to Sun Jul 26 11:27:00 CEST 2026
-2026-07-26 11:27:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 11:27:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 11:26:00 CEST 2026 to Sun Jul 26 11:27:00 CEST 2026 everything is normal
-2026-07-26 11:28:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 11:27:00 CEST 2026 to Sun Jul 26 11:28:00 CEST 2026
-2026-07-26 11:28:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 11:28:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 11:27:00 CEST 2026 to Sun Jul 26 11:28:00 CEST 2026 everything is normal
-2026-07-26 11:29:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 11:28:00 CEST 2026 to Sun Jul 26 11:29:00 CEST 2026
-2026-07-26 11:29:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 11:29:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 11:28:00 CEST 2026 to Sun Jul 26 11:29:00 CEST 2026 everything is normal
-2026-07-26 11:30:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sun Jul 26 11:29:00 CEST 2026 to Sun Jul 26 11:30:00 CEST 2026
-2026-07-26 11:30:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
-2026-07-26 11:30:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sun Jul 26 11:29:00 CEST 2026 to Sun Jul 26 11:30:00 CEST 2026 everything is normal
-2026-07-26 11:30:13 [SpringApplicationShutdownHook] INFO  org.springframework.boot.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
-2026-07-26 11:30:13 [tomcat-shutdown] INFO  org.springframework.boot.tomcat.GracefulShutdown - Graceful shutdown complete
-2026-07-26 11:30:13 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
-2026-07-26 11:30:13 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2026-08-01 12:22:47 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Starting MultiStagePriceApplication using Java 21.0.11 with PID 52559 (/Users/jiangzi/IdeaProjects/multi-stage-price/target/classes started by jiangzi in /Users/jiangzi/IdeaProjects)
+2026-08-01 12:22:47 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - No active profile set, falling back to 1 default profile: "default"
+2026-08-01 12:22:48 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-08-01 12:22:48 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-08-01 12:22:48 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2026-08-01 12:22:48 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat initialized with port 8083 (http)
+2026-08-01 12:22:48 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8083"]
+2026-08-01 12:22:48 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-08-01 12:22:48 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-08-01 12:22:48 [main] INFO  o.s.b.w.c.servlet.WebApplicationContextInitializer - Root WebApplicationContext: initialization completed in 539 ms
+2026-08-01 12:22:48 [main] WARN  i.n.resolver.dns.DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+2026-08-01 12:22:48 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8083"]
+2026-08-01 12:22:48 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat started on port 8083 (http) with context path '/'
+2026-08-01 12:22:48 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Started MultiStagePriceApplication in 1.197 seconds (process running for 1.475)
+2026-08-01 12:23:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sat Aug 01 12:22:00 CEST 2026 to Sat Aug 01 12:23:00 CEST 2026
+2026-08-01 12:23:00 [scheduling-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-08-01 12:23:00 [scheduling-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@107dd09e
+2026-08-01 12:23:00 [scheduling-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-08-01 12:23:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
+2026-08-01 12:23:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sat Aug 01 12:22:00 CEST 2026 to Sat Aug 01 12:23:00 CEST 2026 everything is normal
+2026-08-01 12:24:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sat Aug 01 12:23:00 CEST 2026 to Sat Aug 01 12:24:00 CEST 2026
+2026-08-01 12:24:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
+2026-08-01 12:24:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sat Aug 01 12:23:00 CEST 2026 to Sat Aug 01 12:24:00 CEST 2026 everything is normal
+2026-08-01 12:25:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sat Aug 01 12:24:00 CEST 2026 to Sat Aug 01 12:25:00 CEST 2026
+2026-08-01 12:25:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
+2026-08-01 12:25:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sat Aug 01 12:24:00 CEST 2026 to Sat Aug 01 12:25:00 CEST 2026 everything is normal
+2026-08-01 12:26:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sat Aug 01 12:25:00 CEST 2026 to Sat Aug 01 12:26:00 CEST 2026
+2026-08-01 12:26:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
+2026-08-01 12:26:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sat Aug 01 12:25:00 CEST 2026 to Sat Aug 01 12:26:00 CEST 2026 everything is normal
+2026-08-01 12:27:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sat Aug 01 12:26:00 CEST 2026 to Sat Aug 01 12:27:00 CEST 2026
+2026-08-01 12:27:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
+2026-08-01 12:27:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sat Aug 01 12:26:00 CEST 2026 to Sat Aug 01 12:27:00 CEST 2026 everything is normal
+2026-08-01 12:28:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sat Aug 01 12:27:00 CEST 2026 to Sat Aug 01 12:28:00 CEST 2026
+2026-08-01 12:28:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
+2026-08-01 12:28:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sat Aug 01 12:27:00 CEST 2026 to Sat Aug 01 12:28:00 CEST 2026 everything is normal
+2026-08-01 12:29:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sat Aug 01 12:28:00 CEST 2026 to Sat Aug 01 12:29:00 CEST 2026
+2026-08-01 12:29:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
+2026-08-01 12:29:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sat Aug 01 12:28:00 CEST 2026 to Sat Aug 01 12:29:00 CEST 2026 everything is normal
+2026-08-01 12:30:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sat Aug 01 12:29:00 CEST 2026 to Sat Aug 01 12:30:00 CEST 2026
+2026-08-01 12:30:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
+2026-08-01 12:30:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sat Aug 01 12:29:00 CEST 2026 to Sat Aug 01 12:30:00 CEST 2026 everything is normal
+2026-08-01 12:30:08 [SpringApplicationShutdownHook] INFO  org.springframework.boot.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-08-01 12:30:08 [tomcat-shutdown] INFO  org.springframework.boot.tomcat.GracefulShutdown - Graceful shutdown complete
+2026-08-01 12:30:08 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2026-08-01 12:30:08 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2026-08-01 12:30:21 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Starting MultiStagePriceApplication using Java 21.0.11 with PID 52763 (/Users/jiangzi/IdeaProjects/multi-stage-price/target/classes started by jiangzi in /Users/jiangzi/IdeaProjects)
+2026-08-01 12:30:21 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - No active profile set, falling back to 1 default profile: "default"
+2026-08-01 12:30:22 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2026-08-01 12:30:22 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-08-01 12:30:22 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2026-08-01 12:30:22 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat initialized with port 8083 (http)
+2026-08-01 12:30:22 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8083"]
+2026-08-01 12:30:22 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-08-01 12:30:22 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-08-01 12:30:22 [main] INFO  o.s.b.w.c.servlet.WebApplicationContextInitializer - Root WebApplicationContext: initialization completed in 590 ms
+2026-08-01 12:30:22 [main] WARN  i.n.resolver.dns.DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+2026-08-01 12:30:22 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8083"]
+2026-08-01 12:30:22 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer - Tomcat started on port 8083 (http) with context path '/'
+2026-08-01 12:30:22 [main] INFO  c.e.multi_stage_price.MultiStagePriceApplication - Started MultiStagePriceApplication in 1.339 seconds (process running for 1.695)
+2026-08-01 12:31:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sat Aug 01 12:30:00 CEST 2026 to Sat Aug 01 12:31:00 CEST 2026
+2026-08-01 12:31:00 [scheduling-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-08-01 12:31:00 [scheduling-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3ad0c177
+2026-08-01 12:31:00 [scheduling-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-08-01 12:31:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
+2026-08-01 12:31:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sat Aug 01 12:30:00 CEST 2026 to Sat Aug 01 12:31:00 CEST 2026 everything is normal
+2026-08-01 12:32:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sat Aug 01 12:31:00 CEST 2026 to Sat Aug 01 12:32:00 CEST 2026
+2026-08-01 12:32:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
+2026-08-01 12:32:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sat Aug 01 12:31:00 CEST 2026 to Sat Aug 01 12:32:00 CEST 2026 everything is normal
+2026-08-01 12:33:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sat Aug 01 12:32:00 CEST 2026 to Sat Aug 01 12:33:00 CEST 2026
+2026-08-01 12:33:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
+2026-08-01 12:33:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sat Aug 01 12:32:00 CEST 2026 to Sat Aug 01 12:33:00 CEST 2026 everything is normal
+2026-08-01 12:34:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sat Aug 01 12:33:00 CEST 2026 to Sat Aug 01 12:34:00 CEST 2026
+2026-08-01 12:34:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
+2026-08-01 12:34:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sat Aug 01 12:33:00 CEST 2026 to Sat Aug 01 12:34:00 CEST 2026 everything is normal
+2026-08-01 12:35:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sat Aug 01 12:34:00 CEST 2026 to Sat Aug 01 12:35:00 CEST 2026
+2026-08-01 12:35:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
+2026-08-01 12:35:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sat Aug 01 12:34:00 CEST 2026 to Sat Aug 01 12:35:00 CEST 2026 everything is normal
+2026-08-01 12:36:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sat Aug 01 12:35:00 CEST 2026 to Sat Aug 01 12:36:00 CEST 2026
+2026-08-01 12:36:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
+2026-08-01 12:36:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sat Aug 01 12:35:00 CEST 2026 to Sat Aug 01 12:36:00 CEST 2026 everything is normal
+2026-08-01 12:37:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sat Aug 01 12:36:00 CEST 2026 to Sat Aug 01 12:37:00 CEST 2026
+2026-08-01 12:37:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
+2026-08-01 12:37:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sat Aug 01 12:36:00 CEST 2026 to Sat Aug 01 12:37:00 CEST 2026 everything is normal
+2026-08-01 12:38:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sat Aug 01 12:37:00 CEST 2026 to Sat Aug 01 12:38:00 CEST 2026
+2026-08-01 12:38:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
+2026-08-01 12:38:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sat Aug 01 12:37:00 CEST 2026 to Sat Aug 01 12:38:00 CEST 2026 everything is normal
+2026-08-01 12:39:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sat Aug 01 12:38:00 CEST 2026 to Sat Aug 01 12:39:00 CEST 2026
+2026-08-01 12:39:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
+2026-08-01 12:39:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sat Aug 01 12:38:00 CEST 2026 to Sat Aug 01 12:39:00 CEST 2026 everything is normal
+2026-08-01 12:40:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sat Aug 01 12:39:00 CEST 2026 to Sat Aug 01 12:40:00 CEST 2026
+2026-08-01 12:40:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
+2026-08-01 12:40:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sat Aug 01 12:39:00 CEST 2026 to Sat Aug 01 12:40:00 CEST 2026 everything is normal
+2026-08-01 12:41:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sat Aug 01 12:40:00 CEST 2026 to Sat Aug 01 12:41:00 CEST 2026
+2026-08-01 12:41:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
+2026-08-01 12:41:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sat Aug 01 12:40:00 CEST 2026 to Sat Aug 01 12:41:00 CEST 2026 everything is normal
+2026-08-01 12:42:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sat Aug 01 12:41:00 CEST 2026 to Sat Aug 01 12:42:00 CEST 2026
+2026-08-01 12:42:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
+2026-08-01 12:42:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sat Aug 01 12:41:00 CEST 2026 to Sat Aug 01 12:42:00 CEST 2026 everything is normal
+2026-08-01 12:43:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sat Aug 01 12:42:00 CEST 2026 to Sat Aug 01 12:43:00 CEST 2026
+2026-08-01 12:43:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
+2026-08-01 12:43:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sat Aug 01 12:42:00 CEST 2026 to Sat Aug 01 12:43:00 CEST 2026 everything is normal
+2026-08-01 12:44:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sat Aug 01 12:43:00 CEST 2026 to Sat Aug 01 12:44:00 CEST 2026
+2026-08-01 12:44:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
+2026-08-01 12:44:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sat Aug 01 12:43:00 CEST 2026 to Sat Aug 01 12:44:00 CEST 2026 everything is normal
+2026-08-01 12:45:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sat Aug 01 12:44:00 CEST 2026 to Sat Aug 01 12:45:00 CEST 2026
+2026-08-01 12:45:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
+2026-08-01 12:45:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sat Aug 01 12:44:00 CEST 2026 to Sat Aug 01 12:45:00 CEST 2026 everything is normal
+2026-08-01 12:46:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sat Aug 01 12:45:00 CEST 2026 to Sat Aug 01 12:46:00 CEST 2026
+2026-08-01 12:46:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
+2026-08-01 12:46:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sat Aug 01 12:45:00 CEST 2026 to Sat Aug 01 12:46:00 CEST 2026 everything is normal
+2026-08-01 12:47:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sat Aug 01 12:46:00 CEST 2026 to Sat Aug 01 12:47:00 CEST 2026
+2026-08-01 12:47:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
+2026-08-01 12:47:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sat Aug 01 12:46:00 CEST 2026 to Sat Aug 01 12:47:00 CEST 2026 everything is normal
+2026-08-01 12:48:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - checking the prize records from Sat Aug 01 12:47:00 CEST 2026 to Sat Aug 01 12:48:00 CEST 2026
+2026-08-01 12:48:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - new records: prize record 0, coin record 0
+2026-08-01 12:48:00 [scheduling-1] INFO  c.example.multi_stage_price.schedule.CheckSchedule - from Sat Aug 01 12:47:00 CEST 2026 to Sat Aug 01 12:48:00 CEST 2026 everything is normal
