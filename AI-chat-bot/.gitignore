@@ -31,5 +31,3 @@ build/
 
 ### VS Code ###
 .vscode/
-
-AI-chat-bot/src/main/resources/application.properties
